@@ -11,35 +11,37 @@
 </head>
 <body>
 
-<div class="announcement">Thank you · Your bespoke gate is now in production</div>
+<div class="announcement" data-i18n="succ.announce">Thank you · Your bespoke gate is now in production</div>
 
 <header class="site-header">
   <nav class="nav">
     <div class="nav-left">
-      <a href="index.html#shop" class="nav-link">Shop</a>
-      <a href="index.html#story" class="nav-link">Our Story</a>
+      <a href="index.html#shop" class="nav-link" data-i18n="nav.shop">Shop</a>
+      <a href="index.html#story" class="nav-link" data-i18n="nav.story">Our Story</a>
     </div>
     <a href="index.html" class="brand">
       <span class="brand-mark">LUMINA</span>
-      <span class="brand-sub">Gates Atelier</span>
+      <span class="brand-sub" data-i18n="brand.sub">Gates Atelier</span>
     </a>
     <div class="nav-right">
-      <a href="index.html#shop" class="nav-link">Collection</a>
-      <a href="index.html#contact" class="nav-link">Contact</a>
+      <a href="index.html#shop" class="nav-link" data-i18n="nav.collection">Collection</a>
+      <a href="index.html#contact" class="nav-link" data-i18n="nav.contact">Contact</a>
+      <button class="lang-toggle" data-lang-toggle aria-label="Switch language">TR</button>
     </div>
   </nav>
 </header>
 
 <section class="block" style="text-align:center; max-width:680px;">
-  <span class="eyebrow">Order confirmed</span>
-  <h1 style="font-size:clamp(48px,7vw,88px); margin: 24px 0 20px;">Thank you for<br><em>choosing Lumina.</em></h1>
-  <p style="color:var(--ink-3); font-size:17px; line-height:1.8; margin-bottom: 40px;">
-    Your bespoke gate is being prepared in our atelier. You'll receive a confirmation email
-    within minutes, and a production update within 48 hours. Lead time is <strong>1–2 weeks</strong>
-    from confirmation.
+  <span class="eyebrow" data-i18n="succ.eyebrow">Order confirmed</span>
+  <h1 style="font-size:clamp(48px,7vw,88px); margin: 24px 0 20px;">
+    <span data-i18n="succ.title.a">Thank you for</span><br><em data-i18n="succ.title.b">choosing Lumina.</em>
+  </h1>
+  <p style="color:var(--ink-3); font-size:17px; line-height:1.8; margin-bottom: 40px;" data-i18n-html="succ.body">
+    Your bespoke gate is being prepared in our atelier.
   </p>
-  <a href="index.html" class="btn btn-primary">Back to the Collection →</a>
+  <a href="index.html" class="btn btn-primary" data-i18n="succ.back">Back to the Collection →</a>
 </section>
 
+<script src="js/i18n.js"></script>
 </body>
 </html>

@@ -11,21 +11,22 @@
 </head>
 <body>
 
-<div class="announcement">Summer Collection — 50% Off Site-Wide · Made to Order · Worldwide Shipping</div>
+<div class="announcement" data-i18n="announcement">Summer Collection — 50% Off Site-Wide · Made to Order · Worldwide Shipping</div>
 
 <header class="site-header">
   <nav class="nav">
     <div class="nav-left">
-      <a href="index.html#shop" class="nav-link">Shop</a>
-      <a href="index.html#story" class="nav-link">Our Story</a>
+      <a href="index.html#shop" class="nav-link" data-i18n="nav.shop">Shop</a>
+      <a href="index.html#story" class="nav-link" data-i18n="nav.story">Our Story</a>
     </div>
     <a href="index.html" class="brand">
       <span class="brand-mark">LUMINA</span>
-      <span class="brand-sub">Gates Atelier</span>
+      <span class="brand-sub" data-i18n="brand.sub">Gates Atelier</span>
     </a>
     <div class="nav-right">
-      <a href="index.html#shop" class="nav-link">Collection</a>
-      <a href="index.html#contact" class="nav-link">Contact</a>
+      <a href="index.html#shop" class="nav-link" data-i18n="nav.collection">Collection</a>
+      <a href="index.html#contact" class="nav-link" data-i18n="nav.contact">Contact</a>
+      <button class="lang-toggle" data-lang-toggle aria-label="Switch language">TR</button>
     </div>
   </nav>
 </header>
@@ -37,28 +38,29 @@
 <footer class="site-footer">
   <div class="col">
     <span class="brand-mark">LUMINA</span>
-    <p style="color:var(--ink-3); font-size:13px; max-width:280px;">Gates atelier. Made to order. Shipped worldwide from our Scandinavian workshop.</p>
+    <p style="color:var(--ink-3); font-size:13px; max-width:280px;" data-i18n="footer.tagline">Gates atelier. Made to order. Shipped worldwide from our Scandinavian workshop.</p>
   </div>
   <div class="col">
-    <h5>Shop</h5>
-    <a href="index.html#shop">All Gates</a>
-    <a href="index.html#shop">Plexiglass</a>
-    <a href="index.html#shop">Wood</a>
+    <h5 data-i18n="footer.shop">Shop</h5>
+    <a href="index.html#shop" data-i18n="footer.all">All Gates</a>
+    <a href="index.html#shop" data-i18n="footer.plexi">Plexiglass</a>
+    <a href="index.html#shop" data-i18n="footer.wood">Wood</a>
   </div>
   <div class="col">
-    <h5>Atelier</h5>
-    <a href="index.html#story">Our Story</a>
+    <h5 data-i18n="footer.atelier">Atelier</h5>
+    <a href="index.html#story" data-i18n="nav.story">Our Story</a>
   </div>
   <div class="col">
-    <h5>Contact</h5>
+    <h5 data-i18n="footer.contact">Contact</h5>
     <a href="mailto:luminagates@gmail.com">luminagates@gmail.com</a>
   </div>
   <div class="footer-bottom">
-    <span>© 2026 Lumina Gates · All rights reserved</span>
-    <span>Designed in Scandinavia · Shipped worldwide</span>
+    <span data-i18n="footer.copy">© 2026 Lumina Gates · All rights reserved</span>
+    <span data-i18n="footer.byline">Designed in Scandinavia · Shipped worldwide</span>
   </div>
 </footer>
 
+<script src="js/i18n.js"></script>
 <script src="js/products.js"></script>
 <script src="js/configurator.js"></script>
 </body>

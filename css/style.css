@@ -95,6 +95,19 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 500; letter-spacing: -0
   transition: color .2s;
 }
 .nav-link:hover { color: var(--ink); }
+.lang-toggle {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--ink-2);
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: all .2s;
+  margin-left: 6px;
+}
+.lang-toggle:hover { background: var(--ink); color: #F6F2EA; border-color: var(--ink); }
 .brand {
   display: inline-flex;
   flex-direction: column;

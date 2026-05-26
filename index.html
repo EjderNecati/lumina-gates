@@ -12,36 +12,37 @@
 </head>
 <body>
 
-<div class="announcement">Summer Collection — 50% Off Site-Wide · Made to Order · Worldwide Shipping</div>
+<div class="announcement" data-i18n="announcement">Summer Collection — 50% Off Site-Wide · Made to Order · Worldwide Shipping</div>
 
 <header class="site-header">
   <nav class="nav">
     <div class="nav-left">
-      <a href="#shop" class="nav-link">Shop</a>
-      <a href="#story" class="nav-link">Our Story</a>
+      <a href="#shop" class="nav-link" data-i18n="nav.shop">Shop</a>
+      <a href="#story" class="nav-link" data-i18n="nav.story">Our Story</a>
     </div>
     <a href="index.html" class="brand">
       <span class="brand-mark">LUMINA</span>
-      <span class="brand-sub">Gates Atelier</span>
+      <span class="brand-sub" data-i18n="brand.sub">Gates Atelier</span>
     </a>
     <div class="nav-right">
-      <a href="#shop" class="nav-link">Collection</a>
-      <a href="#contact" class="nav-link">Contact</a>
+      <a href="#shop" class="nav-link" data-i18n="nav.collection">Collection</a>
+      <a href="#contact" class="nav-link" data-i18n="nav.contact">Contact</a>
+      <button class="lang-toggle" data-lang-toggle aria-label="Switch language">TR</button>
     </div>
   </nav>
 </header>
 
 <section class="hero">
   <div class="hero-text">
-    <span class="eyebrow">Made to order · Designed in Scandinavia</span>
-    <h1>The gate, <em>reconsidered.</em></h1>
-    <p class="lead">
+    <span class="eyebrow" data-i18n="hero.eyebrow">Made to order · Designed in Scandinavia</span>
+    <h1><span data-i18n="hero.title.a">The gate,</span> <em data-i18n="hero.title.b">reconsidered.</em></h1>
+    <p class="lead" data-i18n="hero.lead">
       Hand-finished gates for children and pets, in optical-grade plexiglass and solid European oak.
       Configure the exact width, height and finish for your opening.
     </p>
     <div class="hero-actions">
-      <a href="#shop" class="btn btn-primary">Explore the Collection →</a>
-      <a href="#story" class="btn btn-ghost">Our Story</a>
+      <a href="#shop" class="btn btn-primary" data-i18n="hero.cta.shop">Explore the Collection →</a>
+      <a href="#story" class="btn btn-ghost" data-i18n="hero.cta.story">Our Story</a>
     </div>
   </div>
   <div class="hero-visual" id="heroVisual"></div>
@@ -51,24 +52,24 @@
 <section class="values">
   <div class="values-inner">
     <div>
-      <span class="eyebrow">01 · Material</span>
-      <div class="v-title">Optical-grade plexiglass</div>
-      <p class="v-body">Scratch-resistant, edge-polished, and shaped to disappear into the architecture of your home.</p>
+      <span class="eyebrow" data-i18n="values.01.eyebrow">01 · Material</span>
+      <div class="v-title" data-i18n="values.01.title">Optical-grade plexiglass</div>
+      <p class="v-body" data-i18n="values.01.body">Scratch-resistant, edge-polished, and shaped to disappear into the architecture of your home.</p>
     </div>
     <div>
-      <span class="eyebrow">02 · Craft</span>
-      <div class="v-title">Solid European oak</div>
-      <p class="v-body">Sustainably sourced, finished by hand with natural oils. Mortise-and-tenon joinery.</p>
+      <span class="eyebrow" data-i18n="values.02.eyebrow">02 · Craft</span>
+      <div class="v-title" data-i18n="values.02.title">Solid European oak</div>
+      <p class="v-body" data-i18n="values.02.body">Sustainably sourced, finished by hand with natural oils. Mortise-and-tenon joinery.</p>
     </div>
     <div>
-      <span class="eyebrow">03 · Fit</span>
-      <div class="v-title">Configured to the inch</div>
-      <p class="v-body">Every gate is made to your opening. Tell us width and height — we build the rest.</p>
+      <span class="eyebrow" data-i18n="values.03.eyebrow">03 · Fit</span>
+      <div class="v-title" data-i18n="values.03.title">Configured to the inch</div>
+      <p class="v-body" data-i18n="values.03.body">Every gate is made to your opening. Tell us width and height — we build the rest.</p>
     </div>
     <div>
-      <span class="eyebrow">04 · Safety</span>
-      <div class="v-title">Engineered for life</div>
-      <p class="v-body">Double-action latches, rounded corners and pressure-tested mounts. Tested by toddlers and tabby cats.</p>
+      <span class="eyebrow" data-i18n="values.04.eyebrow">04 · Safety</span>
+      <div class="v-title" data-i18n="values.04.title">Engineered for life</div>
+      <p class="v-body" data-i18n="values.04.body">Double-action latches, rounded corners and pressure-tested mounts. Tested by toddlers and tabby cats.</p>
     </div>
   </div>
 </section>
@@ -77,14 +78,14 @@
 <section class="block" id="shop">
   <div class="block-head">
     <div>
-      <span class="eyebrow">The Collection</span>
-      <h2>Twenty-nine gates,<br>eleven in plexiglass, eighteen in wood.</h2>
+      <span class="eyebrow" data-i18n="shop.eyebrow">The Collection</span>
+      <h2 data-i18n="shop.title">Twenty-nine gates, eleven in plexiglass, eighteen in wood.</h2>
     </div>
     <div class="filters" id="filters">
-      <button class="chip active" data-filter="all">All</button>
-      <button class="chip" data-filter="plexi">Plexiglass</button>
-      <button class="chip" data-filter="wood">Wood</button>
-      <button class="chip" data-filter="cat">Cat</button>
+      <button class="chip active" data-filter="all"   data-i18n="filter.all">All</button>
+      <button class="chip"        data-filter="plexi" data-i18n="filter.plexi">Plexiglass</button>
+      <button class="chip"        data-filter="wood"  data-i18n="filter.wood">Wood</button>
+      <button class="chip"        data-filter="cat"   data-i18n="filter.cat">Cat</button>
     </div>
   </div>
   <div class="grid" id="productGrid"></div>
@@ -93,13 +94,10 @@
 <!-- ───── Story ───── -->
 <section class="block" id="story" style="border-top:1px solid var(--line);">
   <div style="max-width:760px; margin: 0 auto; text-align:center;">
-    <span class="eyebrow">Our Story</span>
-    <h2 style="font-size:clamp(36px,5vw,64px); margin: 20px 0 24px;">A gate should belong<br><em>to the room it lives in.</em></h2>
-    <p style="font-size:17px; color:var(--ink-3); line-height:1.8;">
-      Lumina Gates began with a simple frustration: every safety gate on the market looked like it
-      belonged in a warehouse. We make the gate you would have chosen for your home if you weren't
-      a parent or a pet owner — and then we engineer it to keep the smallest members of your
-      household safe. Every piece is built to your exact opening, in our workshop, by hand.
+    <span class="eyebrow" data-i18n="story.eyebrow">Our Story</span>
+    <h2 style="font-size:clamp(36px,5vw,64px); margin: 20px 0 24px;"><span data-i18n="story.title.a">A gate should belong</span><br><em data-i18n="story.title.b">to the room it lives in.</em></h2>
+    <p style="font-size:17px; color:var(--ink-3); line-height:1.8;" data-i18n="story.body">
+      Lumina Gates began with a simple frustration…
     </p>
   </div>
 </section>
@@ -108,29 +106,30 @@
 <footer class="site-footer" id="contact">
   <div class="col">
     <span class="brand-mark">LUMINA</span>
-    <p style="color:var(--ink-3); font-size:13px; max-width:280px;">Gates atelier. Made to order. Shipped worldwide from our Scandinavian workshop.</p>
+    <p style="color:var(--ink-3); font-size:13px; max-width:280px;" data-i18n="footer.tagline">Gates atelier. Made to order. Shipped worldwide from our Scandinavian workshop.</p>
   </div>
   <div class="col">
-    <h5>Shop</h5>
-    <a href="#shop">All Gates</a>
-    <a href="#shop" data-jump="plexi">Plexiglass</a>
-    <a href="#shop" data-jump="wood">Wood</a>
-    <a href="#shop" data-jump="cat">Cat Edition</a>
+    <h5 data-i18n="footer.shop">Shop</h5>
+    <a href="#shop" data-i18n="footer.all">All Gates</a>
+    <a href="#shop" data-jump="plexi" data-i18n="footer.plexi">Plexiglass</a>
+    <a href="#shop" data-jump="wood"  data-i18n="footer.wood">Wood</a>
+    <a href="#shop" data-jump="cat"   data-i18n="footer.cat">Cat Edition</a>
   </div>
   <div class="col">
-    <h5>Atelier</h5>
-    <a href="#story">Our Story</a>
+    <h5 data-i18n="footer.atelier">Atelier</h5>
+    <a href="#story" data-i18n="nav.story">Our Story</a>
   </div>
   <div class="col">
-    <h5>Contact</h5>
+    <h5 data-i18n="footer.contact">Contact</h5>
     <a href="mailto:luminagates@gmail.com">luminagates@gmail.com</a>
   </div>
   <div class="footer-bottom">
-    <span>© 2026 Lumina Gates · All rights reserved</span>
-    <span>Designed in Scandinavia · Shipped worldwide</span>
+    <span data-i18n="footer.copy">© 2026 Lumina Gates · All rights reserved</span>
+    <span data-i18n="footer.byline">Designed in Scandinavia · Shipped worldwide</span>
   </div>
 </footer>
 
+<script src="js/i18n.js"></script>
 <script src="js/products.js"></script>
 <script src="js/home.js"></script>
 </body>
