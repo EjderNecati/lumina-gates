@@ -258,7 +258,7 @@
   // ── Custom-made wish (mailto) ────────────────────────────
   document.getElementById('customBtn').addEventListener('click', () => {
     window.location.href =
-      'mailto:luminagates@gmail.com' +
+      'mailto:dogukan@luminagates.com' +
       '?subject=' + encodeURIComponent(t('mail.subject')) +
       '&body='   + encodeURIComponent(t('mail.body'));
   });
