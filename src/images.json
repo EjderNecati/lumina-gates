@@ -1,0 +1,4657 @@
+{
+  "generated": "2026-10-05T21:21:42.886Z",
+  "widths": [
+    400,
+    600,
+    800,
+    1200
+  ],
+  "products": {
+    "aurora": [
+      {
+        "n": 1,
+        "width": 1330,
+        "height": 1321,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/aurora/aurora-1-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/aurora/aurora-1-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/aurora/aurora-1-800.webp",
+            "width": 800,
+            "height": 795
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/aurora/aurora-1-1200.webp",
+            "width": 1200,
+            "height": 1192
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1788,
+        "height": 1798,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/aurora/aurora-2-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/aurora/aurora-2-600.webp",
+            "width": 600,
+            "height": 603
+          },
+          {
+            "w": 800,
+            "file": "/img/products/aurora/aurora-2-800.webp",
+            "width": 800,
+            "height": 804
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/aurora/aurora-2-1200.webp",
+            "width": 1200,
+            "height": 1207
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1333,
+        "height": 1339,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/aurora/aurora-3-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/aurora/aurora-3-600.webp",
+            "width": 600,
+            "height": 603
+          },
+          {
+            "w": 800,
+            "file": "/img/products/aurora/aurora-3-800.webp",
+            "width": 800,
+            "height": 804
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/aurora/aurora-3-1200.webp",
+            "width": 1200,
+            "height": 1205
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1766,
+        "height": 1514,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/aurora/aurora-4-400.webp",
+            "width": 400,
+            "height": 343
+          },
+          {
+            "w": 600,
+            "file": "/img/products/aurora/aurora-4-600.webp",
+            "width": 600,
+            "height": 514
+          },
+          {
+            "w": 800,
+            "file": "/img/products/aurora/aurora-4-800.webp",
+            "width": 800,
+            "height": 686
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/aurora/aurora-4-1200.webp",
+            "width": 1200,
+            "height": 1029
+          }
+        ]
+      }
+    ],
+    "liten-etched": [
+      {
+        "n": 1,
+        "width": 1896,
+        "height": 1973,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-etched/liten-etched-1-400.webp",
+            "width": 400,
+            "height": 416
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-etched/liten-etched-1-600.webp",
+            "width": 600,
+            "height": 624
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-etched/liten-etched-1-800.webp",
+            "width": 800,
+            "height": 832
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-etched/liten-etched-1-1200.webp",
+            "width": 1200,
+            "height": 1249
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1871,
+        "height": 2022,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-etched/liten-etched-2-400.webp",
+            "width": 400,
+            "height": 432
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-etched/liten-etched-2-600.webp",
+            "width": 600,
+            "height": 648
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-etched/liten-etched-2-800.webp",
+            "width": 800,
+            "height": 865
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-etched/liten-etched-2-1200.webp",
+            "width": 1200,
+            "height": 1297
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 935,
+        "height": 1013,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-etched/liten-etched-3-400.webp",
+            "width": 400,
+            "height": 433
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-etched/liten-etched-3-600.webp",
+            "width": 600,
+            "height": 650
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-etched/liten-etched-3-800.webp",
+            "width": 800,
+            "height": 867
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-etched/liten-etched-3-1200.webp",
+            "width": 935,
+            "height": 1013
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1148,
+        "height": 1535,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-etched/liten-etched-4-400.webp",
+            "width": 400,
+            "height": 535
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-etched/liten-etched-4-600.webp",
+            "width": 600,
+            "height": 802
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-etched/liten-etched-4-800.webp",
+            "width": 800,
+            "height": 1070
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-etched/liten-etched-4-1200.webp",
+            "width": 1148,
+            "height": 1535
+          }
+        ]
+      }
+    ],
+    "liten": [
+      {
+        "n": 1,
+        "width": 1290,
+        "height": 1288,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten/liten-1-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten/liten-1-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten/liten-1-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten/liten-1-1200.webp",
+            "width": 1200,
+            "height": 1198
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 2083,
+        "height": 1633,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten/liten-2-400.webp",
+            "width": 400,
+            "height": 314
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten/liten-2-600.webp",
+            "width": 600,
+            "height": 470
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten/liten-2-800.webp",
+            "width": 800,
+            "height": 627
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten/liten-2-1200.webp",
+            "width": 1200,
+            "height": 941
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1320,
+        "height": 1325,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten/liten-3-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten/liten-3-600.webp",
+            "width": 600,
+            "height": 602
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten/liten-3-800.webp",
+            "width": 800,
+            "height": 803
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten/liten-3-1200.webp",
+            "width": 1200,
+            "height": 1205
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1573,
+        "height": 1396,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten/liten-4-400.webp",
+            "width": 400,
+            "height": 355
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten/liten-4-600.webp",
+            "width": 600,
+            "height": 532
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten/liten-4-800.webp",
+            "width": 800,
+            "height": 710
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten/liten-4-1200.webp",
+            "width": 1200,
+            "height": 1065
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1331,
+        "height": 1327,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten/liten-5-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten/liten-5-600.webp",
+            "width": 600,
+            "height": 598
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten/liten-5-800.webp",
+            "width": 800,
+            "height": 798
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten/liten-5-1200.webp",
+            "width": 1200,
+            "height": 1196
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1329,
+        "height": 1314,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten/liten-6-400.webp",
+            "width": 400,
+            "height": 395
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten/liten-6-600.webp",
+            "width": 600,
+            "height": 593
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten/liten-6-800.webp",
+            "width": 800,
+            "height": 791
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten/liten-6-1200.webp",
+            "width": 1200,
+            "height": 1186
+          }
+        ]
+      }
+    ],
+    "clear-plexi": [
+      {
+        "n": 1,
+        "width": 1075,
+        "height": 738,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/clear-plexi/clear-plexi-1-400.webp",
+            "width": 400,
+            "height": 275
+          },
+          {
+            "w": 600,
+            "file": "/img/products/clear-plexi/clear-plexi-1-600.webp",
+            "width": 600,
+            "height": 412
+          },
+          {
+            "w": 800,
+            "file": "/img/products/clear-plexi/clear-plexi-1-800.webp",
+            "width": 800,
+            "height": 549
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/clear-plexi/clear-plexi-1-1200.webp",
+            "width": 1075,
+            "height": 738
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1319,
+        "height": 1304,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/clear-plexi/clear-plexi-2-400.webp",
+            "width": 400,
+            "height": 395
+          },
+          {
+            "w": 600,
+            "file": "/img/products/clear-plexi/clear-plexi-2-600.webp",
+            "width": 600,
+            "height": 593
+          },
+          {
+            "w": 800,
+            "file": "/img/products/clear-plexi/clear-plexi-2-800.webp",
+            "width": 800,
+            "height": 791
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/clear-plexi/clear-plexi-2-1200.webp",
+            "width": 1200,
+            "height": 1186
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1308,
+        "height": 1299,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/clear-plexi/clear-plexi-3-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/clear-plexi/clear-plexi-3-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/clear-plexi/clear-plexi-3-800.webp",
+            "width": 800,
+            "height": 794
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/clear-plexi/clear-plexi-3-1200.webp",
+            "width": 1200,
+            "height": 1192
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1319,
+        "height": 1308,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/clear-plexi/clear-plexi-4-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/clear-plexi/clear-plexi-4-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/clear-plexi/clear-plexi-4-800.webp",
+            "width": 800,
+            "height": 793
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/clear-plexi/clear-plexi-4-1200.webp",
+            "width": 1200,
+            "height": 1190
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1316,
+        "height": 1312,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/clear-plexi/clear-plexi-5-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/clear-plexi/clear-plexi-5-600.webp",
+            "width": 600,
+            "height": 598
+          },
+          {
+            "w": 800,
+            "file": "/img/products/clear-plexi/clear-plexi-5-800.webp",
+            "width": 800,
+            "height": 798
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/clear-plexi/clear-plexi-5-1200.webp",
+            "width": 1200,
+            "height": 1196
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 2484,
+        "height": 1546,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/clear-plexi/clear-plexi-6-400.webp",
+            "width": 400,
+            "height": 249
+          },
+          {
+            "w": 600,
+            "file": "/img/products/clear-plexi/clear-plexi-6-600.webp",
+            "width": 600,
+            "height": 373
+          },
+          {
+            "w": 800,
+            "file": "/img/products/clear-plexi/clear-plexi-6-800.webp",
+            "width": 800,
+            "height": 498
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/clear-plexi/clear-plexi-6-1200.webp",
+            "width": 1200,
+            "height": 747
+          }
+        ]
+      }
+    ],
+    "klar": [
+      {
+        "n": 1,
+        "width": 1339,
+        "height": 1346,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/klar/klar-1-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/klar/klar-1-600.webp",
+            "width": 600,
+            "height": 603
+          },
+          {
+            "w": 800,
+            "file": "/img/products/klar/klar-1-800.webp",
+            "width": 800,
+            "height": 804
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/klar/klar-1-1200.webp",
+            "width": 1200,
+            "height": 1206
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1324,
+        "height": 1330,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/klar/klar-2-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/klar/klar-2-600.webp",
+            "width": 600,
+            "height": 603
+          },
+          {
+            "w": 800,
+            "file": "/img/products/klar/klar-2-800.webp",
+            "width": 800,
+            "height": 804
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/klar/klar-2-1200.webp",
+            "width": 1200,
+            "height": 1205
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1347,
+        "height": 1334,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/klar/klar-3-400.webp",
+            "width": 400,
+            "height": 396
+          },
+          {
+            "w": 600,
+            "file": "/img/products/klar/klar-3-600.webp",
+            "width": 600,
+            "height": 594
+          },
+          {
+            "w": 800,
+            "file": "/img/products/klar/klar-3-800.webp",
+            "width": 800,
+            "height": 792
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/klar/klar-3-1200.webp",
+            "width": 1200,
+            "height": 1188
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 2539,
+        "height": 1522,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/klar/klar-4-400.webp",
+            "width": 400,
+            "height": 240
+          },
+          {
+            "w": 600,
+            "file": "/img/products/klar/klar-4-600.webp",
+            "width": 600,
+            "height": 360
+          },
+          {
+            "w": 800,
+            "file": "/img/products/klar/klar-4-800.webp",
+            "width": 800,
+            "height": 480
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/klar/klar-4-1200.webp",
+            "width": 1200,
+            "height": 719
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 2246,
+        "height": 1516,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/klar/klar-5-400.webp",
+            "width": 400,
+            "height": 270
+          },
+          {
+            "w": 600,
+            "file": "/img/products/klar/klar-5-600.webp",
+            "width": 600,
+            "height": 405
+          },
+          {
+            "w": 800,
+            "file": "/img/products/klar/klar-5-800.webp",
+            "width": 800,
+            "height": 540
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/klar/klar-5-1200.webp",
+            "width": 1200,
+            "height": 810
+          }
+        ]
+      }
+    ],
+    "noord-etched": [
+      {
+        "n": 1,
+        "width": 1873,
+        "height": 2008,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-etched/noord-etched-1-400.webp",
+            "width": 400,
+            "height": 429
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-etched/noord-etched-1-600.webp",
+            "width": 600,
+            "height": 643
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-etched/noord-etched-1-800.webp",
+            "width": 800,
+            "height": 858
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-etched/noord-etched-1-1200.webp",
+            "width": 1200,
+            "height": 1286
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1327,
+        "height": 1317,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-etched/noord-etched-2-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-etched/noord-etched-2-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-etched/noord-etched-2-800.webp",
+            "width": 800,
+            "height": 794
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-etched/noord-etched-2-1200.webp",
+            "width": 1200,
+            "height": 1191
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 2148,
+        "height": 1650,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-etched/noord-etched-3-400.webp",
+            "width": 400,
+            "height": 307
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-etched/noord-etched-3-600.webp",
+            "width": 600,
+            "height": 461
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-etched/noord-etched-3-800.webp",
+            "width": 800,
+            "height": 615
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-etched/noord-etched-3-1200.webp",
+            "width": 1200,
+            "height": 922
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1325,
+        "height": 1328,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-etched/noord-etched-4-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-etched/noord-etched-4-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-etched/noord-etched-4-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-etched/noord-etched-4-1200.webp",
+            "width": 1200,
+            "height": 1203
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1317,
+        "height": 1300,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-etched/noord-etched-5-400.webp",
+            "width": 400,
+            "height": 395
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-etched/noord-etched-5-600.webp",
+            "width": 600,
+            "height": 592
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-etched/noord-etched-5-800.webp",
+            "width": 800,
+            "height": 790
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-etched/noord-etched-5-1200.webp",
+            "width": 1200,
+            "height": 1185
+          }
+        ]
+      }
+    ],
+    "noord": [
+      {
+        "n": 1,
+        "width": 1339,
+        "height": 1330,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-1-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-1-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-1-800.webp",
+            "width": 800,
+            "height": 795
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-1-1200.webp",
+            "width": 1200,
+            "height": 1192
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1049,
+        "height": 854,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-2-400.webp",
+            "width": 400,
+            "height": 326
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-2-600.webp",
+            "width": 600,
+            "height": 488
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-2-800.webp",
+            "width": 800,
+            "height": 651
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-2-1200.webp",
+            "width": 1049,
+            "height": 854
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1057,
+        "height": 843,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-3-400.webp",
+            "width": 400,
+            "height": 319
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-3-600.webp",
+            "width": 600,
+            "height": 479
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-3-800.webp",
+            "width": 800,
+            "height": 638
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-3-1200.webp",
+            "width": 1057,
+            "height": 843
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1326,
+        "height": 1347,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-4-400.webp",
+            "width": 400,
+            "height": 406
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-4-600.webp",
+            "width": 600,
+            "height": 610
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-4-800.webp",
+            "width": 800,
+            "height": 813
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-4-1200.webp",
+            "width": 1200,
+            "height": 1219
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1336,
+        "height": 1339,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-5-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-5-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-5-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-5-1200.webp",
+            "width": 1200,
+            "height": 1203
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1324,
+        "height": 1328,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-6-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-6-600.webp",
+            "width": 600,
+            "height": 602
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-6-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-6-1200.webp",
+            "width": 1200,
+            "height": 1204
+          }
+        ]
+      },
+      {
+        "n": 7,
+        "width": 1320,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord/noord-7-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord/noord-7-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord/noord-7-800.webp",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord/noord-7-1200.webp",
+            "width": 1200,
+            "height": 1200
+          }
+        ]
+      }
+    ],
+    "bifold-glass": [
+      {
+        "n": 1,
+        "width": 1345,
+        "height": 1340,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/bifold-glass/bifold-glass-1-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/bifold-glass/bifold-glass-1-600.webp",
+            "width": 600,
+            "height": 598
+          },
+          {
+            "w": 800,
+            "file": "/img/products/bifold-glass/bifold-glass-1-800.webp",
+            "width": 800,
+            "height": 797
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/bifold-glass/bifold-glass-1-1200.webp",
+            "width": 1200,
+            "height": 1196
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1756,
+        "height": 1880,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/bifold-glass/bifold-glass-2-400.webp",
+            "width": 400,
+            "height": 428
+          },
+          {
+            "w": 600,
+            "file": "/img/products/bifold-glass/bifold-glass-2-600.webp",
+            "width": 600,
+            "height": 642
+          },
+          {
+            "w": 800,
+            "file": "/img/products/bifold-glass/bifold-glass-2-800.webp",
+            "width": 800,
+            "height": 856
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/bifold-glass/bifold-glass-2-1200.webp",
+            "width": 1200,
+            "height": 1285
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1751,
+        "height": 1861,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/bifold-glass/bifold-glass-3-400.webp",
+            "width": 400,
+            "height": 425
+          },
+          {
+            "w": 600,
+            "file": "/img/products/bifold-glass/bifold-glass-3-600.webp",
+            "width": 600,
+            "height": 638
+          },
+          {
+            "w": 800,
+            "file": "/img/products/bifold-glass/bifold-glass-3-800.webp",
+            "width": 800,
+            "height": 850
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/bifold-glass/bifold-glass-3-1200.webp",
+            "width": 1200,
+            "height": 1275
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1821,
+        "height": 1895,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/bifold-glass/bifold-glass-4-400.webp",
+            "width": 400,
+            "height": 416
+          },
+          {
+            "w": 600,
+            "file": "/img/products/bifold-glass/bifold-glass-4-600.webp",
+            "width": 600,
+            "height": 624
+          },
+          {
+            "w": 800,
+            "file": "/img/products/bifold-glass/bifold-glass-4-800.webp",
+            "width": 800,
+            "height": 833
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/bifold-glass/bifold-glass-4-1200.webp",
+            "width": 1200,
+            "height": 1249
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1324,
+        "height": 1327,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/bifold-glass/bifold-glass-5-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/bifold-glass/bifold-glass-5-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/bifold-glass/bifold-glass-5-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/bifold-glass/bifold-glass-5-1200.webp",
+            "width": 1200,
+            "height": 1203
+          }
+        ]
+      }
+    ],
+    "liten-oak": [
+      {
+        "n": 1,
+        "width": 1330,
+        "height": 1322,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-oak/liten-oak-1-400.webp",
+            "width": 400,
+            "height": 398
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-oak/liten-oak-1-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-oak/liten-oak-1-800.webp",
+            "width": 800,
+            "height": 795
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-oak/liten-oak-1-1200.webp",
+            "width": 1200,
+            "height": 1193
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 2027,
+        "height": 1722,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-oak/liten-oak-2-400.webp",
+            "width": 400,
+            "height": 340
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-oak/liten-oak-2-600.webp",
+            "width": 600,
+            "height": 510
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-oak/liten-oak-2-800.webp",
+            "width": 800,
+            "height": 680
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-oak/liten-oak-2-1200.webp",
+            "width": 1200,
+            "height": 1019
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1337,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-oak/liten-oak-3-400.webp",
+            "width": 400,
+            "height": 395
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-oak/liten-oak-3-600.webp",
+            "width": 600,
+            "height": 592
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-oak/liten-oak-3-800.webp",
+            "width": 800,
+            "height": 790
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-oak/liten-oak-3-1200.webp",
+            "width": 1200,
+            "height": 1185
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1331,
+        "height": 1329,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/liten-oak/liten-oak-4-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/liten-oak/liten-oak-4-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/liten-oak/liten-oak-4-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/liten-oak/liten-oak-4-1200.webp",
+            "width": 1200,
+            "height": 1198
+          }
+        ]
+      }
+    ],
+    "lugn-oak": [
+      {
+        "n": 1,
+        "width": 1306,
+        "height": 1295,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-1-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-1-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-1-800.webp",
+            "width": 800,
+            "height": 793
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-1-1200.webp",
+            "width": 1200,
+            "height": 1190
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1189,
+        "height": 1162,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-2-400.webp",
+            "width": 400,
+            "height": 391
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-2-600.webp",
+            "width": 600,
+            "height": 586
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-2-800.webp",
+            "width": 800,
+            "height": 782
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-2-1200.webp",
+            "width": 1189,
+            "height": 1162
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1221,
+        "height": 1170,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-3-400.webp",
+            "width": 400,
+            "height": 383
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-3-600.webp",
+            "width": 600,
+            "height": 575
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-3-800.webp",
+            "width": 800,
+            "height": 767
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-3-1200.webp",
+            "width": 1200,
+            "height": 1150
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1334,
+        "height": 1317,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-4-400.webp",
+            "width": 400,
+            "height": 395
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-4-600.webp",
+            "width": 600,
+            "height": 592
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-4-800.webp",
+            "width": 800,
+            "height": 790
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-4-1200.webp",
+            "width": 1200,
+            "height": 1185
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1333,
+        "height": 1325,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-5-400.webp",
+            "width": 400,
+            "height": 398
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-5-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-5-800.webp",
+            "width": 800,
+            "height": 795
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-5-1200.webp",
+            "width": 1200,
+            "height": 1193
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1296,
+        "height": 1297,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-6-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-6-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-6-800.webp",
+            "width": 800,
+            "height": 801
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-6-1200.webp",
+            "width": 1200,
+            "height": 1201
+          }
+        ]
+      },
+      {
+        "n": 7,
+        "width": 1317,
+        "height": 1316,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lugn-oak/lugn-oak-7-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lugn-oak/lugn-oak-7-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lugn-oak/lugn-oak-7-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lugn-oak/lugn-oak-7-1200.webp",
+            "width": 1200,
+            "height": 1199
+          }
+        ]
+      }
+    ],
+    "noord-oak": [
+      {
+        "n": 1,
+        "width": 1307,
+        "height": 1332,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-oak/noord-oak-1-400.webp",
+            "width": 400,
+            "height": 408
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-oak/noord-oak-1-600.webp",
+            "width": 600,
+            "height": 611
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-oak/noord-oak-1-800.webp",
+            "width": 800,
+            "height": 815
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-oak/noord-oak-1-1200.webp",
+            "width": 1200,
+            "height": 1223
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1331,
+        "height": 1331,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-oak/noord-oak-2-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-oak/noord-oak-2-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-oak/noord-oak-2-800.webp",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-oak/noord-oak-2-1200.webp",
+            "width": 1200,
+            "height": 1200
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1327,
+        "height": 1336,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-oak/noord-oak-3-400.webp",
+            "width": 400,
+            "height": 403
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-oak/noord-oak-3-600.webp",
+            "width": 600,
+            "height": 604
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-oak/noord-oak-3-800.webp",
+            "width": 800,
+            "height": 805
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-oak/noord-oak-3-1200.webp",
+            "width": 1200,
+            "height": 1208
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1326,
+        "height": 1330,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-oak/noord-oak-4-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-oak/noord-oak-4-600.webp",
+            "width": 600,
+            "height": 602
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-oak/noord-oak-4-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-oak/noord-oak-4-1200.webp",
+            "width": 1200,
+            "height": 1204
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1335,
+        "height": 1312,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-oak/noord-oak-5-400.webp",
+            "width": 400,
+            "height": 393
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-oak/noord-oak-5-600.webp",
+            "width": 600,
+            "height": 590
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-oak/noord-oak-5-800.webp",
+            "width": 800,
+            "height": 786
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-oak/noord-oak-5-1200.webp",
+            "width": 1200,
+            "height": 1179
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1312,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/noord-oak/noord-oak-6-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/noord-oak/noord-oak-6-600.webp",
+            "width": 600,
+            "height": 604
+          },
+          {
+            "w": 800,
+            "file": "/img/products/noord-oak/noord-oak-6-800.webp",
+            "width": 800,
+            "height": 805
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/noord-oak/noord-oak-6-1200.webp",
+            "width": 1200,
+            "height": 1207
+          }
+        ]
+      }
+    ],
+    "flat-cat": [
+      {
+        "n": 1,
+        "width": 1612,
+        "height": 1835,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flat-cat/flat-cat-1-400.webp",
+            "width": 400,
+            "height": 455
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flat-cat/flat-cat-1-600.webp",
+            "width": 600,
+            "height": 683
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flat-cat/flat-cat-1-800.webp",
+            "width": 800,
+            "height": 911
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flat-cat/flat-cat-1-1200.webp",
+            "width": 1200,
+            "height": 1366
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1621,
+        "height": 1932,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flat-cat/flat-cat-2-400.webp",
+            "width": 400,
+            "height": 477
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flat-cat/flat-cat-2-600.webp",
+            "width": 600,
+            "height": 715
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flat-cat/flat-cat-2-800.webp",
+            "width": 800,
+            "height": 953
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flat-cat/flat-cat-2-1200.webp",
+            "width": 1200,
+            "height": 1430
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1593,
+        "height": 1831,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flat-cat/flat-cat-3-400.webp",
+            "width": 400,
+            "height": 460
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flat-cat/flat-cat-3-600.webp",
+            "width": 600,
+            "height": 690
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flat-cat/flat-cat-3-800.webp",
+            "width": 800,
+            "height": 920
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flat-cat/flat-cat-3-1200.webp",
+            "width": 1200,
+            "height": 1379
+          }
+        ]
+      }
+    ],
+    "elegant": [
+      {
+        "n": 1,
+        "width": 1337,
+        "height": 1324,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-1-400.webp",
+            "width": 400,
+            "height": 396
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-1-600.webp",
+            "width": 600,
+            "height": 594
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-1-800.webp",
+            "width": 800,
+            "height": 792
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-1-1200.webp",
+            "width": 1200,
+            "height": 1188
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1236,
+        "height": 789,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-2-400.webp",
+            "width": 400,
+            "height": 255
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-2-600.webp",
+            "width": 600,
+            "height": 383
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-2-800.webp",
+            "width": 800,
+            "height": 511
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-2-1200.webp",
+            "width": 1200,
+            "height": 766
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1327,
+        "height": 1325,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-3-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-3-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-3-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-3-1200.webp",
+            "width": 1200,
+            "height": 1198
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1320,
+        "height": 1323,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-4-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-4-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-4-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-4-1200.webp",
+            "width": 1200,
+            "height": 1203
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1224,
+        "height": 796,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-5-400.webp",
+            "width": 400,
+            "height": 260
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-5-600.webp",
+            "width": 600,
+            "height": 390
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-5-800.webp",
+            "width": 800,
+            "height": 520
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-5-1200.webp",
+            "width": 1200,
+            "height": 780
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1328,
+        "height": 1335,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-6-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-6-600.webp",
+            "width": 600,
+            "height": 603
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-6-800.webp",
+            "width": 800,
+            "height": 804
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-6-1200.webp",
+            "width": 1200,
+            "height": 1206
+          }
+        ]
+      },
+      {
+        "n": 7,
+        "width": 1331,
+        "height": 1325,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant/elegant-7-400.webp",
+            "width": 400,
+            "height": 398
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant/elegant-7-600.webp",
+            "width": 600,
+            "height": 597
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant/elegant-7-800.webp",
+            "width": 800,
+            "height": 796
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant/elegant-7-1200.webp",
+            "width": 1200,
+            "height": 1195
+          }
+        ]
+      }
+    ],
+    "trygg-cat": [
+      {
+        "n": 1,
+        "width": 1834,
+        "height": 2032,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg-cat/trygg-cat-1-400.webp",
+            "width": 400,
+            "height": 443
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg-cat/trygg-cat-1-600.webp",
+            "width": 600,
+            "height": 665
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg-cat/trygg-cat-1-800.webp",
+            "width": 800,
+            "height": 886
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg-cat/trygg-cat-1-1200.webp",
+            "width": 1200,
+            "height": 1330
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1325,
+        "height": 1326,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg-cat/trygg-cat-2-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg-cat/trygg-cat-2-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg-cat/trygg-cat-2-800.webp",
+            "width": 800,
+            "height": 801
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg-cat/trygg-cat-2-1200.webp",
+            "width": 1200,
+            "height": 1201
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1326,
+        "height": 1334,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg-cat/trygg-cat-3-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg-cat/trygg-cat-3-600.webp",
+            "width": 600,
+            "height": 604
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg-cat/trygg-cat-3-800.webp",
+            "width": 800,
+            "height": 805
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg-cat/trygg-cat-3-1200.webp",
+            "width": 1200,
+            "height": 1207
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1846,
+        "height": 2085,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg-cat/trygg-cat-4-400.webp",
+            "width": 400,
+            "height": 452
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg-cat/trygg-cat-4-600.webp",
+            "width": 600,
+            "height": 678
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg-cat/trygg-cat-4-800.webp",
+            "width": 800,
+            "height": 904
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg-cat/trygg-cat-4-1200.webp",
+            "width": 1200,
+            "height": 1355
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1849,
+        "height": 2014,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg-cat/trygg-cat-5-400.webp",
+            "width": 400,
+            "height": 436
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg-cat/trygg-cat-5-600.webp",
+            "width": 600,
+            "height": 654
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg-cat/trygg-cat-5-800.webp",
+            "width": 800,
+            "height": 871
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg-cat/trygg-cat-5-1200.webp",
+            "width": 1200,
+            "height": 1307
+          }
+        ]
+      }
+    ],
+    "lux": [
+      {
+        "n": 1,
+        "width": 1318,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux/lux-1-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux/lux-1-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux/lux-1-800.webp",
+            "width": 800,
+            "height": 801
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux/lux-1-1200.webp",
+            "width": 1200,
+            "height": 1202
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1310,
+        "height": 1314,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux/lux-2-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux/lux-2-600.webp",
+            "width": 600,
+            "height": 602
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux/lux-2-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux/lux-2-1200.webp",
+            "width": 1200,
+            "height": 1204
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1309,
+        "height": 1298,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux/lux-3-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux/lux-3-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux/lux-3-800.webp",
+            "width": 800,
+            "height": 793
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux/lux-3-1200.webp",
+            "width": 1200,
+            "height": 1190
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1109,
+        "height": 870,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux/lux-4-400.webp",
+            "width": 400,
+            "height": 314
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux/lux-4-600.webp",
+            "width": 600,
+            "height": 471
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux/lux-4-800.webp",
+            "width": 800,
+            "height": 628
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux/lux-4-1200.webp",
+            "width": 1109,
+            "height": 870
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1317,
+        "height": 1315,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux/lux-5-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux/lux-5-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux/lux-5-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux/lux-5-1200.webp",
+            "width": 1200,
+            "height": 1198
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1086,
+        "height": 866,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux/lux-6-400.webp",
+            "width": 400,
+            "height": 319
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux/lux-6-600.webp",
+            "width": 600,
+            "height": 478
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux/lux-6-800.webp",
+            "width": 800,
+            "height": 638
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux/lux-6-1200.webp",
+            "width": 1086,
+            "height": 866
+          }
+        ]
+      }
+    ],
+    "flink": [
+      {
+        "n": 1,
+        "width": 1328,
+        "height": 1335,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-1-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-1-600.webp",
+            "width": 600,
+            "height": 603
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-1-800.webp",
+            "width": 800,
+            "height": 804
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-1-1200.webp",
+            "width": 1200,
+            "height": 1206
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1179,
+        "height": 845,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-2-400.webp",
+            "width": 400,
+            "height": 287
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-2-600.webp",
+            "width": 600,
+            "height": 430
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-2-800.webp",
+            "width": 800,
+            "height": 573
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-2-1200.webp",
+            "width": 1179,
+            "height": 845
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1333,
+        "height": 1325,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-3-400.webp",
+            "width": 400,
+            "height": 398
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-3-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-3-800.webp",
+            "width": 800,
+            "height": 795
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-3-1200.webp",
+            "width": 1200,
+            "height": 1193
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1172,
+        "height": 845,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-4-400.webp",
+            "width": 400,
+            "height": 288
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-4-600.webp",
+            "width": 600,
+            "height": 433
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-4-800.webp",
+            "width": 800,
+            "height": 577
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-4-1200.webp",
+            "width": 1172,
+            "height": 845
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1337,
+        "height": 1332,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-5-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-5-600.webp",
+            "width": 600,
+            "height": 598
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-5-800.webp",
+            "width": 800,
+            "height": 797
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-5-1200.webp",
+            "width": 1200,
+            "height": 1196
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1314,
+        "height": 1331,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-6-400.webp",
+            "width": 400,
+            "height": 405
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-6-600.webp",
+            "width": 600,
+            "height": 608
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-6-800.webp",
+            "width": 800,
+            "height": 810
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-6-1200.webp",
+            "width": 1200,
+            "height": 1216
+          }
+        ]
+      },
+      {
+        "n": 7,
+        "width": 1334,
+        "height": 1332,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flink/flink-7-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flink/flink-7-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flink/flink-7-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flink/flink-7-1200.webp",
+            "width": 1200,
+            "height": 1198
+          }
+        ]
+      }
+    ],
+    "laga": [
+      {
+        "n": 1,
+        "width": 1318,
+        "height": 1318,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/laga/laga-1-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/laga/laga-1-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/laga/laga-1-800.webp",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/laga/laga-1-1200.webp",
+            "width": 1200,
+            "height": 1200
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1338,
+        "height": 1323,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/laga/laga-2-400.webp",
+            "width": 400,
+            "height": 396
+          },
+          {
+            "w": 600,
+            "file": "/img/products/laga/laga-2-600.webp",
+            "width": 600,
+            "height": 593
+          },
+          {
+            "w": 800,
+            "file": "/img/products/laga/laga-2-800.webp",
+            "width": 800,
+            "height": 791
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/laga/laga-2-1200.webp",
+            "width": 1200,
+            "height": 1187
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1327,
+        "height": 1332,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/laga/laga-3-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/laga/laga-3-600.webp",
+            "width": 600,
+            "height": 602
+          },
+          {
+            "w": 800,
+            "file": "/img/products/laga/laga-3-800.webp",
+            "width": 800,
+            "height": 803
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/laga/laga-3-1200.webp",
+            "width": 1200,
+            "height": 1205
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1100,
+        "height": 751,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/laga/laga-4-400.webp",
+            "width": 400,
+            "height": 273
+          },
+          {
+            "w": 600,
+            "file": "/img/products/laga/laga-4-600.webp",
+            "width": 600,
+            "height": 410
+          },
+          {
+            "w": 800,
+            "file": "/img/products/laga/laga-4-800.webp",
+            "width": 800,
+            "height": 546
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/laga/laga-4-1200.webp",
+            "width": 1100,
+            "height": 751
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1328,
+        "height": 1336,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/laga/laga-5-400.webp",
+            "width": 400,
+            "height": 402
+          },
+          {
+            "w": 600,
+            "file": "/img/products/laga/laga-5-600.webp",
+            "width": 600,
+            "height": 604
+          },
+          {
+            "w": 800,
+            "file": "/img/products/laga/laga-5-800.webp",
+            "width": 800,
+            "height": 805
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/laga/laga-5-1200.webp",
+            "width": 1200,
+            "height": 1207
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1130,
+        "height": 757,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/laga/laga-6-400.webp",
+            "width": 400,
+            "height": 268
+          },
+          {
+            "w": 600,
+            "file": "/img/products/laga/laga-6-600.webp",
+            "width": 600,
+            "height": 402
+          },
+          {
+            "w": 800,
+            "file": "/img/products/laga/laga-6-800.webp",
+            "width": 800,
+            "height": 536
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/laga/laga-6-1200.webp",
+            "width": 1130,
+            "height": 757
+          }
+        ]
+      }
+    ],
+    "trygg": [
+      {
+        "n": 1,
+        "width": 1329,
+        "height": 1331,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg/trygg-1-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg/trygg-1-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg/trygg-1-800.webp",
+            "width": 800,
+            "height": 801
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg/trygg-1-1200.webp",
+            "width": 1200,
+            "height": 1202
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1330,
+        "height": 1327,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg/trygg-2-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg/trygg-2-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg/trygg-2-800.webp",
+            "width": 800,
+            "height": 798
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg/trygg-2-1200.webp",
+            "width": 1200,
+            "height": 1197
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1030,
+        "height": 877,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg/trygg-3-400.webp",
+            "width": 400,
+            "height": 341
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg/trygg-3-600.webp",
+            "width": 600,
+            "height": 511
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg/trygg-3-800.webp",
+            "width": 800,
+            "height": 681
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg/trygg-3-1200.webp",
+            "width": 1030,
+            "height": 877
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 769,
+        "height": 676,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg/trygg-4-400.webp",
+            "width": 400,
+            "height": 352
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg/trygg-4-600.webp",
+            "width": 600,
+            "height": 527
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg/trygg-4-800.webp",
+            "width": 769,
+            "height": 676
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg/trygg-4-1200.webp",
+            "width": 769,
+            "height": 676
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1330,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg/trygg-5-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg/trygg-5-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg/trygg-5-800.webp",
+            "width": 800,
+            "height": 794
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg/trygg-5-1200.webp",
+            "width": 1200,
+            "height": 1191
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1328,
+        "height": 1325,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/trygg/trygg-6-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/trygg/trygg-6-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/trygg/trygg-6-800.webp",
+            "width": 800,
+            "height": 798
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/trygg/trygg-6-1200.webp",
+            "width": 1200,
+            "height": 1197
+          }
+        ]
+      }
+    ],
+    "elegant-cat": [
+      {
+        "n": 1,
+        "width": 1864,
+        "height": 2035,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant-cat/elegant-cat-1-400.webp",
+            "width": 400,
+            "height": 437
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant-cat/elegant-cat-1-600.webp",
+            "width": 600,
+            "height": 655
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant-cat/elegant-cat-1-800.webp",
+            "width": 800,
+            "height": 873
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant-cat/elegant-cat-1-1200.webp",
+            "width": 1200,
+            "height": 1310
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1276,
+        "height": 1284,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant-cat/elegant-cat-2-400.webp",
+            "width": 400,
+            "height": 403
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant-cat/elegant-cat-2-600.webp",
+            "width": 600,
+            "height": 604
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant-cat/elegant-cat-2-800.webp",
+            "width": 800,
+            "height": 805
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant-cat/elegant-cat-2-1200.webp",
+            "width": 1200,
+            "height": 1208
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1833,
+        "height": 1645,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant-cat/elegant-cat-3-400.webp",
+            "width": 400,
+            "height": 359
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant-cat/elegant-cat-3-600.webp",
+            "width": 600,
+            "height": 538
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant-cat/elegant-cat-3-800.webp",
+            "width": 800,
+            "height": 718
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant-cat/elegant-cat-3-1200.webp",
+            "width": 1200,
+            "height": 1077
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 2059,
+        "height": 1760,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/elegant-cat/elegant-cat-4-400.webp",
+            "width": 400,
+            "height": 342
+          },
+          {
+            "w": 600,
+            "file": "/img/products/elegant-cat/elegant-cat-4-600.webp",
+            "width": 600,
+            "height": 513
+          },
+          {
+            "w": 800,
+            "file": "/img/products/elegant-cat/elegant-cat-4-800.webp",
+            "width": 800,
+            "height": 684
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/elegant-cat/elegant-cat-4-1200.webp",
+            "width": 1200,
+            "height": 1026
+          }
+        ]
+      }
+    ],
+    "lux-2": [
+      {
+        "n": 1,
+        "width": 1587,
+        "height": 1696,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2/lux-2-1-400.webp",
+            "width": 400,
+            "height": 427
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2/lux-2-1-600.webp",
+            "width": 600,
+            "height": 641
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2/lux-2-1-800.webp",
+            "width": 800,
+            "height": 855
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2/lux-2-1-1200.webp",
+            "width": 1200,
+            "height": 1282
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1648,
+        "height": 1447,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2/lux-2-2-400.webp",
+            "width": 400,
+            "height": 351
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2/lux-2-2-600.webp",
+            "width": 600,
+            "height": 527
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2/lux-2-2-800.webp",
+            "width": 800,
+            "height": 702
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2/lux-2-2-1200.webp",
+            "width": 1200,
+            "height": 1054
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1151,
+        "height": 1228,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2/lux-2-3-400.webp",
+            "width": 400,
+            "height": 427
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2/lux-2-3-600.webp",
+            "width": 600,
+            "height": 640
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2/lux-2-3-800.webp",
+            "width": 800,
+            "height": 854
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2/lux-2-3-1200.webp",
+            "width": 1151,
+            "height": 1228
+          }
+        ]
+      }
+    ],
+    "lux-3": [
+      {
+        "n": 1,
+        "width": 1194,
+        "height": 1303,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3/lux-3-1-400.webp",
+            "width": 400,
+            "height": 437
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3/lux-3-1-600.webp",
+            "width": 600,
+            "height": 655
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3/lux-3-1-800.webp",
+            "width": 800,
+            "height": 873
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3/lux-3-1-1200.webp",
+            "width": 1194,
+            "height": 1303
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1322,
+        "height": 1333,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3/lux-3-2-400.webp",
+            "width": 400,
+            "height": 403
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3/lux-3-2-600.webp",
+            "width": 600,
+            "height": 605
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3/lux-3-2-800.webp",
+            "width": 800,
+            "height": 807
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3/lux-3-2-1200.webp",
+            "width": 1200,
+            "height": 1210
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1775,
+        "height": 1904,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3/lux-3-3-400.webp",
+            "width": 400,
+            "height": 429
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3/lux-3-3-600.webp",
+            "width": 600,
+            "height": 644
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3/lux-3-3-800.webp",
+            "width": 800,
+            "height": 858
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3/lux-3-3-1200.webp",
+            "width": 1200,
+            "height": 1287
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1341,
+        "height": 1338,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3/lux-3-4-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3/lux-3-4-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3/lux-3-4-800.webp",
+            "width": 800,
+            "height": 798
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3/lux-3-4-1200.webp",
+            "width": 1200,
+            "height": 1197
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1835,
+        "height": 1968,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3/lux-3-5-400.webp",
+            "width": 400,
+            "height": 429
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3/lux-3-5-600.webp",
+            "width": 600,
+            "height": 643
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3/lux-3-5-800.webp",
+            "width": 800,
+            "height": 858
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3/lux-3-5-1200.webp",
+            "width": 1200,
+            "height": 1287
+          }
+        ]
+      }
+    ],
+    "lux-3-oak": [
+      {
+        "n": 1,
+        "width": 978,
+        "height": 1223,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3-oak/lux-3-oak-1-400.webp",
+            "width": 400,
+            "height": 500
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3-oak/lux-3-oak-1-600.webp",
+            "width": 600,
+            "height": 750
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3-oak/lux-3-oak-1-800.webp",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3-oak/lux-3-oak-1-1200.webp",
+            "width": 978,
+            "height": 1223
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 963,
+        "height": 1296,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3-oak/lux-3-oak-2-400.webp",
+            "width": 400,
+            "height": 538
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3-oak/lux-3-oak-2-600.webp",
+            "width": 600,
+            "height": 807
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3-oak/lux-3-oak-2-800.webp",
+            "width": 800,
+            "height": 1077
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3-oak/lux-3-oak-2-1200.webp",
+            "width": 963,
+            "height": 1296
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1454,
+        "height": 1928,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3-oak/lux-3-oak-3-400.webp",
+            "width": 400,
+            "height": 530
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3-oak/lux-3-oak-3-600.webp",
+            "width": 600,
+            "height": 796
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3-oak/lux-3-oak-3-800.webp",
+            "width": 800,
+            "height": 1061
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3-oak/lux-3-oak-3-1200.webp",
+            "width": 1200,
+            "height": 1591
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1003,
+        "height": 1344,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-3-oak/lux-3-oak-4-400.webp",
+            "width": 400,
+            "height": 536
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-3-oak/lux-3-oak-4-600.webp",
+            "width": 600,
+            "height": 804
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-3-oak/lux-3-oak-4-800.webp",
+            "width": 800,
+            "height": 1072
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-3-oak/lux-3-oak-4-1200.webp",
+            "width": 1003,
+            "height": 1344
+          }
+        ]
+      }
+    ],
+    "glide": [
+      {
+        "n": 1,
+        "width": 1831,
+        "height": 2096,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/glide/glide-1-400.webp",
+            "width": 400,
+            "height": 458
+          },
+          {
+            "w": 600,
+            "file": "/img/products/glide/glide-1-600.webp",
+            "width": 600,
+            "height": 687
+          },
+          {
+            "w": 800,
+            "file": "/img/products/glide/glide-1-800.webp",
+            "width": 800,
+            "height": 916
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/glide/glide-1-1200.webp",
+            "width": 1200,
+            "height": 1374
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1847,
+        "height": 2074,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/glide/glide-2-400.webp",
+            "width": 400,
+            "height": 449
+          },
+          {
+            "w": 600,
+            "file": "/img/products/glide/glide-2-600.webp",
+            "width": 600,
+            "height": 674
+          },
+          {
+            "w": 800,
+            "file": "/img/products/glide/glide-2-800.webp",
+            "width": 800,
+            "height": 898
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/glide/glide-2-1200.webp",
+            "width": 1200,
+            "height": 1347
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1156,
+        "height": 1554,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/glide/glide-3-400.webp",
+            "width": 400,
+            "height": 538
+          },
+          {
+            "w": 600,
+            "file": "/img/products/glide/glide-3-600.webp",
+            "width": 600,
+            "height": 807
+          },
+          {
+            "w": 800,
+            "file": "/img/products/glide/glide-3-800.webp",
+            "width": 800,
+            "height": 1075
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/glide/glide-3-1200.webp",
+            "width": 1156,
+            "height": 1554
+          }
+        ]
+      }
+    ],
+    "double-barn": [
+      {
+        "n": 1,
+        "width": 1680,
+        "height": 2069,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/double-barn/double-barn-1-400.webp",
+            "width": 400,
+            "height": 493
+          },
+          {
+            "w": 600,
+            "file": "/img/products/double-barn/double-barn-1-600.webp",
+            "width": 600,
+            "height": 739
+          },
+          {
+            "w": 800,
+            "file": "/img/products/double-barn/double-barn-1-800.webp",
+            "width": 800,
+            "height": 985
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/double-barn/double-barn-1-1200.webp",
+            "width": 1200,
+            "height": 1478
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1020,
+        "height": 871,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/double-barn/double-barn-2-400.webp",
+            "width": 400,
+            "height": 342
+          },
+          {
+            "w": 600,
+            "file": "/img/products/double-barn/double-barn-2-600.webp",
+            "width": 600,
+            "height": 512
+          },
+          {
+            "w": 800,
+            "file": "/img/products/double-barn/double-barn-2-800.webp",
+            "width": 800,
+            "height": 683
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/double-barn/double-barn-2-1200.webp",
+            "width": 1020,
+            "height": 871
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 2017,
+        "height": 1731,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/double-barn/double-barn-3-400.webp",
+            "width": 400,
+            "height": 343
+          },
+          {
+            "w": 600,
+            "file": "/img/products/double-barn/double-barn-3-600.webp",
+            "width": 600,
+            "height": 515
+          },
+          {
+            "w": 800,
+            "file": "/img/products/double-barn/double-barn-3-800.webp",
+            "width": 800,
+            "height": 687
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/double-barn/double-barn-3-1200.webp",
+            "width": 1200,
+            "height": 1030
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1319,
+        "height": 1315,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/double-barn/double-barn-4-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/double-barn/double-barn-4-600.webp",
+            "width": 600,
+            "height": 598
+          },
+          {
+            "w": 800,
+            "file": "/img/products/double-barn/double-barn-4-800.webp",
+            "width": 800,
+            "height": 798
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/double-barn/double-barn-4-1200.webp",
+            "width": 1200,
+            "height": 1196
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1321,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/double-barn/double-barn-5-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/double-barn/double-barn-5-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/double-barn/double-barn-5-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/double-barn/double-barn-5-1200.webp",
+            "width": 1200,
+            "height": 1199
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1328,
+        "height": 1317,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/double-barn/double-barn-6-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/double-barn/double-barn-6-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/double-barn/double-barn-6-800.webp",
+            "width": 800,
+            "height": 793
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/double-barn/double-barn-6-1200.webp",
+            "width": 1200,
+            "height": 1190
+          }
+        ]
+      }
+    ],
+    "flat-oak": [
+      {
+        "n": 1,
+        "width": 1170,
+        "height": 1241,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flat-oak/flat-oak-1-400.webp",
+            "width": 400,
+            "height": 424
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flat-oak/flat-oak-1-600.webp",
+            "width": 600,
+            "height": 636
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flat-oak/flat-oak-1-800.webp",
+            "width": 800,
+            "height": 849
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flat-oak/flat-oak-1-1200.webp",
+            "width": 1170,
+            "height": 1241
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1153,
+        "height": 1548,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flat-oak/flat-oak-2-400.webp",
+            "width": 400,
+            "height": 537
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flat-oak/flat-oak-2-600.webp",
+            "width": 600,
+            "height": 806
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flat-oak/flat-oak-2-800.webp",
+            "width": 800,
+            "height": 1074
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flat-oak/flat-oak-2-1200.webp",
+            "width": 1153,
+            "height": 1548
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1878,
+        "height": 1870,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/flat-oak/flat-oak-3-400.webp",
+            "width": 400,
+            "height": 398
+          },
+          {
+            "w": 600,
+            "file": "/img/products/flat-oak/flat-oak-3-600.webp",
+            "width": 600,
+            "height": 597
+          },
+          {
+            "w": 800,
+            "file": "/img/products/flat-oak/flat-oak-3-800.webp",
+            "width": 800,
+            "height": 797
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/flat-oak/flat-oak-3-1200.webp",
+            "width": 1200,
+            "height": 1195
+          }
+        ]
+      }
+    ],
+    "lux-2-oak": [
+      {
+        "n": 1,
+        "width": 1167,
+        "height": 1521,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2-oak/lux-2-oak-1-400.webp",
+            "width": 400,
+            "height": 521
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2-oak/lux-2-oak-1-600.webp",
+            "width": 600,
+            "height": 782
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2-oak/lux-2-oak-1-800.webp",
+            "width": 800,
+            "height": 1043
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2-oak/lux-2-oak-1-1200.webp",
+            "width": 1167,
+            "height": 1521
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1170,
+        "height": 1499,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2-oak/lux-2-oak-2-400.webp",
+            "width": 400,
+            "height": 512
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2-oak/lux-2-oak-2-600.webp",
+            "width": 600,
+            "height": 769
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2-oak/lux-2-oak-2-800.webp",
+            "width": 800,
+            "height": 1025
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2-oak/lux-2-oak-2-1200.webp",
+            "width": 1170,
+            "height": 1499
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 889,
+        "height": 1080,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2-oak/lux-2-oak-3-400.webp",
+            "width": 400,
+            "height": 486
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2-oak/lux-2-oak-3-600.webp",
+            "width": 600,
+            "height": 729
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2-oak/lux-2-oak-3-800.webp",
+            "width": 800,
+            "height": 972
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2-oak/lux-2-oak-3-1200.webp",
+            "width": 889,
+            "height": 1080
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1147,
+        "height": 1291,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/lux-2-oak/lux-2-oak-4-400.webp",
+            "width": 400,
+            "height": 450
+          },
+          {
+            "w": 600,
+            "file": "/img/products/lux-2-oak/lux-2-oak-4-600.webp",
+            "width": 600,
+            "height": 675
+          },
+          {
+            "w": 800,
+            "file": "/img/products/lux-2-oak/lux-2-oak-4-800.webp",
+            "width": 800,
+            "height": 900
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/lux-2-oak/lux-2-oak-4-1200.webp",
+            "width": 1147,
+            "height": 1291
+          }
+        ]
+      }
+    ],
+    "barnhall-plus": [
+      {
+        "n": 1,
+        "width": 1722,
+        "height": 2186,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall-plus/barnhall-plus-1-400.webp",
+            "width": 400,
+            "height": 508
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall-plus/barnhall-plus-1-600.webp",
+            "width": 600,
+            "height": 762
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall-plus/barnhall-plus-1-800.webp",
+            "width": 800,
+            "height": 1016
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall-plus/barnhall-plus-1-1200.webp",
+            "width": 1200,
+            "height": 1523
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1352,
+        "height": 1333,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall-plus/barnhall-plus-2-400.webp",
+            "width": 400,
+            "height": 394
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall-plus/barnhall-plus-2-600.webp",
+            "width": 600,
+            "height": 592
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall-plus/barnhall-plus-2-800.webp",
+            "width": 800,
+            "height": 789
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall-plus/barnhall-plus-2-1200.webp",
+            "width": 1200,
+            "height": 1183
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1933,
+        "height": 1758,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall-plus/barnhall-plus-3-400.webp",
+            "width": 400,
+            "height": 364
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall-plus/barnhall-plus-3-600.webp",
+            "width": 600,
+            "height": 546
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall-plus/barnhall-plus-3-800.webp",
+            "width": 800,
+            "height": 728
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall-plus/barnhall-plus-3-1200.webp",
+            "width": 1200,
+            "height": 1091
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1341,
+        "height": 1320,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall-plus/barnhall-plus-4-400.webp",
+            "width": 400,
+            "height": 394
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall-plus/barnhall-plus-4-600.webp",
+            "width": 600,
+            "height": 591
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall-plus/barnhall-plus-4-800.webp",
+            "width": 800,
+            "height": 787
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall-plus/barnhall-plus-4-1200.webp",
+            "width": 1200,
+            "height": 1181
+          }
+        ]
+      }
+    ],
+    "stappa": [
+      {
+        "n": 1,
+        "width": 1325,
+        "height": 1317,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-1-400.webp",
+            "width": 400,
+            "height": 398
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-1-600.webp",
+            "width": 600,
+            "height": 596
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-1-800.webp",
+            "width": 800,
+            "height": 795
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-1-1200.webp",
+            "width": 1200,
+            "height": 1193
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1327,
+        "height": 1337,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-2-400.webp",
+            "width": 400,
+            "height": 403
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-2-600.webp",
+            "width": 600,
+            "height": 605
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-2-800.webp",
+            "width": 800,
+            "height": 806
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-2-1200.webp",
+            "width": 1200,
+            "height": 1209
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1145,
+        "height": 708,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-3-400.webp",
+            "width": 400,
+            "height": 247
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-3-600.webp",
+            "width": 600,
+            "height": 371
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-3-800.webp",
+            "width": 800,
+            "height": 495
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-3-1200.webp",
+            "width": 1145,
+            "height": 708
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1337,
+        "height": 1338,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-4-400.webp",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-4-600.webp",
+            "width": 600,
+            "height": 600
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-4-800.webp",
+            "width": 800,
+            "height": 801
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-4-1200.webp",
+            "width": 1200,
+            "height": 1201
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 679,
+        "height": 817,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-5-400.webp",
+            "width": 400,
+            "height": 481
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-5-600.webp",
+            "width": 600,
+            "height": 722
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-5-800.webp",
+            "width": 679,
+            "height": 817
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-5-1200.webp",
+            "width": 679,
+            "height": 817
+          }
+        ]
+      },
+      {
+        "n": 6,
+        "width": 1139,
+        "height": 725,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-6-400.webp",
+            "width": 400,
+            "height": 255
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-6-600.webp",
+            "width": 600,
+            "height": 382
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-6-800.webp",
+            "width": 800,
+            "height": 509
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-6-1200.webp",
+            "width": 1139,
+            "height": 725
+          }
+        ]
+      },
+      {
+        "n": 7,
+        "width": 1333,
+        "height": 1331,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-7-400.webp",
+            "width": 400,
+            "height": 399
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-7-600.webp",
+            "width": 600,
+            "height": 599
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-7-800.webp",
+            "width": 800,
+            "height": 799
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-7-1200.webp",
+            "width": 1200,
+            "height": 1198
+          }
+        ]
+      },
+      {
+        "n": 8,
+        "width": 1331,
+        "height": 1334,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/stappa/stappa-8-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/stappa/stappa-8-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/stappa/stappa-8-800.webp",
+            "width": 800,
+            "height": 802
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/stappa/stappa-8-1200.webp",
+            "width": 1200,
+            "height": 1203
+          }
+        ]
+      }
+    ],
+    "barnhall": [
+      {
+        "n": 1,
+        "width": 1334,
+        "height": 1336,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall/barnhall-1-400.webp",
+            "width": 400,
+            "height": 401
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall/barnhall-1-600.webp",
+            "width": 600,
+            "height": 601
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall/barnhall-1-800.webp",
+            "width": 800,
+            "height": 801
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall/barnhall-1-1200.webp",
+            "width": 1200,
+            "height": 1202
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "width": 1319,
+        "height": 1329,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall/barnhall-2-400.webp",
+            "width": 400,
+            "height": 403
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall/barnhall-2-600.webp",
+            "width": 600,
+            "height": 605
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall/barnhall-2-800.webp",
+            "width": 800,
+            "height": 806
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall/barnhall-2-1200.webp",
+            "width": 1200,
+            "height": 1209
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "width": 1056,
+        "height": 918,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall/barnhall-3-400.webp",
+            "width": 400,
+            "height": 348
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall/barnhall-3-600.webp",
+            "width": 600,
+            "height": 522
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall/barnhall-3-800.webp",
+            "width": 800,
+            "height": 695
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall/barnhall-3-1200.webp",
+            "width": 1056,
+            "height": 918
+          }
+        ]
+      },
+      {
+        "n": 4,
+        "width": 1015,
+        "height": 906,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall/barnhall-4-400.webp",
+            "width": 400,
+            "height": 357
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall/barnhall-4-600.webp",
+            "width": 600,
+            "height": 536
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall/barnhall-4-800.webp",
+            "width": 800,
+            "height": 714
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall/barnhall-4-1200.webp",
+            "width": 1015,
+            "height": 906
+          }
+        ]
+      },
+      {
+        "n": 5,
+        "width": 1328,
+        "height": 1318,
+        "sizes": [
+          {
+            "w": 400,
+            "file": "/img/products/barnhall/barnhall-5-400.webp",
+            "width": 400,
+            "height": 397
+          },
+          {
+            "w": 600,
+            "file": "/img/products/barnhall/barnhall-5-600.webp",
+            "width": 600,
+            "height": 595
+          },
+          {
+            "w": 800,
+            "file": "/img/products/barnhall/barnhall-5-800.webp",
+            "width": 800,
+            "height": 794
+          },
+          {
+            "w": 1200,
+            "file": "/img/products/barnhall/barnhall-5-1200.webp",
+            "width": 1200,
+            "height": 1191
+          }
+        ]
+      }
+    ]
+  }
+}

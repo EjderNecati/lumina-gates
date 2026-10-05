@@ -1,9 +1,38 @@
 {
-  "version": 2,
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
   "cleanUrls": true,
   "trailingSlash": false,
-  "rewrites": [
-    { "source": "/api/create-checkout", "destination": "/api/create-checkout.js" },
-    { "source": "/api/webhook",          "destination": "/api/webhook.js" }
+  "redirects": [
+    { "source": "/product.html", "has": [{ "type": "query", "key": "id", "value": "(?<id>[a-z0-9-]+)" }], "destination": "/gates/:id", "permanent": true },
+    { "source": "/product.html", "destination": "/gates", "permanent": true },
+    { "source": "/product", "destination": "/gates", "permanent": true },
+    { "source": "/success.html", "destination": "/", "permanent": true },
+    { "source": "/success", "destination": "/", "permanent": true },
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "luminagates.com" }], "destination": "https://www.luminagates.com/$1", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Strict-Transport-Security", "value": "max-age=63072000; includeSubDomains; preload" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), payment=(self), usb=(), interest-cohort=()" },
+        { "key": "Cross-Origin-Opener-Policy", "value": "same-origin" },
+        { "key": "Content-Security-Policy", "value": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self' https://checkout.stripe.com; script-src 'self' https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net; style-src 'self'; font-src 'self'; img-src 'self' data: https://www.googletagmanager.com https://www.google-analytics.com https://googleads.g.doubleclick.net https://www.google.com https://www.google.com.tr; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://www.googletagmanager.com https://stats.g.doubleclick.net https://www.google.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com; upgrade-insecure-requests" }
+      ]
+    },
+    { "source": "/css/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] },
+    { "source": "/js/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] },
+    { "source": "/fonts/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }, { "key": "Access-Control-Allow-Origin", "value": "*" }] },
+    { "source": "/img/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=2592000, stale-while-revalidate=86400" }] },
+    { "source": "/(favicon.ico|icon.svg|site.webmanifest)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] },
+    { "source": "/sitemap.xml", "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600" }, { "key": "Content-Type", "value": "application/xml; charset=utf-8" }] },
+    { "source": "/api/(.*)", "headers": [{ "key": "Cache-Control", "value": "no-store" }] }
   ]
 }

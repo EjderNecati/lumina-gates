@@ -1,9 +1,23 @@
 {
   "name": "lumina-gates",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
-  "description": "Lumina Gates — bespoke child & pet gates",
+  "description": "Lumina Gates — bespoke child & pet gates. Static storefront + Vercel functions for Stripe Checkout.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "images": "node scripts/images.js",
+    "check": "node scripts/check.js",
+    "serve": "node scripts/serve.js",
+    "dev": "npm run build && npm run serve"
+  },
   "dependencies": {
     "stripe": "^16.0.0"
+  },
+  "devDependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "sharp": "^0.35.5"
   }
 }
