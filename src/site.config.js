@@ -9,13 +9,12 @@ module.exports = {
 
   company: {
     legalName: 'Doggo LLC',
-    // Registered address of the LLC (shown in footer, policies and Organization schema).
-    // Fill in once the Wyoming address is confirmed; empty fields are simply omitted.
+    // Mailing address (virtual mailbox provided by the formation service) — the LLC itself is registered in Wyoming.
     address: {
-      street: '',
-      city: '',
-      region: 'Wyoming',
-      postalCode: '',
+      street: '169 Madison Ave STE 11534 Unit 445',
+      city: 'New York',
+      region: 'NY',
+      postalCode: '10016',
       country: 'US'
     },
     workshop: { city: 'Bursa', country: 'Türkiye', countryCode: 'TR' },
