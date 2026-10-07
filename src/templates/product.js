@@ -73,7 +73,7 @@ module.exports = function product(ctx, p) {
     [t.product.specs.madeIn, t.product.specs.madeInValue]
   ];
 
-  const mailto = `mailto:${encodeURIComponent(c.contact.email)}?subject=${encodeURIComponent(t.product.mailSubject + ' — ' + p.name)}&body=${encodeURIComponent(t.product.mailBody)}`;
+  const mailto = `mailto:${encodeURIComponent(c.contact.email)}?subject=${encodeURIComponent(t.product.mailSubject + ': ' + p.name)}&body=${encodeURIComponent(t.product.mailBody)}`;
   const L_ = { min: cat.LIMITS.width.min, max: cat.LIMITS.width.max };
   const H_ = { min: cat.LIMITS.height.min, max: cat.LIMITS.height.max };
 
@@ -238,7 +238,7 @@ ${t.product.faq.map(f => `      <details class="faq-item"><summary>${e(f.q)}</su
     audience: { '@type': 'PeopleAudience', audienceType: p.audience === 'cat' ? 'Households with cats' : 'Parents and pet owners' },
     additionalProperty: [
       { '@type': 'PropertyValue', name: 'Standard height', value: '27.5', unitCode: 'INH' },
-      { '@type': 'PropertyValue', name: 'Width range', value: `${cat.LIMITS.width.min}–${cat.LIMITS.width.max}`, unitCode: 'INH' },
+      { '@type': 'PropertyValue', name: 'Width range', value: `${cat.LIMITS.width.min}-${cat.LIMITS.width.max}`, unitCode: 'INH' },
       { '@type': 'PropertyValue', name: 'Mounting', value: 'Hardware-mounted' },
       { '@type': 'PropertyValue', name: 'Made to order', value: 'Yes' }
     ],
@@ -282,10 +282,10 @@ ${t.product.faq.map(f => `      <details class="faq-item"><summary>${e(f.q)}</su
   return {
     path,
     title,
-    titleShort: `${p.name} — Custom ${materialNoun} gate | Lumina Gates`,
+    titleShort: `${p.name} - Custom ${materialNoun} gate | Lumina Gates`,
     description: metaDesc,
     ogType: 'product',
-    ogTitle: `${p.name} — ${tagline}`,
+    ogTitle: `${p.name}: ${tagline}`,
     ogImage: abs(`/img/og/${p.id}.jpg`),
     ogImageAlt: tf(t.product.imageAlt, { name: p.name, material: materialNoun, n: 1 }),
     ogExtra: [
@@ -317,6 +317,6 @@ ${t.product.faq.map(f => `      <details class="faq-item"><summary>${e(f.q)}</su
     },
     body,
     // used by sitemap for <image:image>
-    images: images.map((u, i) => ({ loc: u, title: `${p.name} — ${tf(t.product.imageAlt, { name: p.name, material: materialNoun, n: i + 1 })}` }))
+    images: images.map((u, i) => ({ loc: u, title: `${p.name}: ${tf(t.product.imageAlt, { name: p.name, material: materialNoun, n: i + 1 })}` }))
   };
 };

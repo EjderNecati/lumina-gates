@@ -1,4 +1,4 @@
-// POST /api/contact — contact form → email to the workshop (reply-to = sender)
+// POST /api/contact - contact form → email to the workshop (reply-to = sender)
 // Body (JSON): { name, email, topic, message, website (honeypot, must be empty), locale }
 'use strict';
 

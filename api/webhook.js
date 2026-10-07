@@ -1,4 +1,4 @@
-// POST /api/webhook — Stripe events.
+// POST /api/webhook - Stripe events.
 //
 // Stripe Dashboard → Developers → Webhooks → endpoint https://www.luminagates.com/api/webhook
 // Events: checkout.session.completed, checkout.session.async_payment_succeeded, checkout.session.async_payment_failed
@@ -21,24 +21,24 @@ async function readRawBody(req) {
 
 const COPY = {
   en: {
-    subject: ref => `Order ${ref} received — Lumina Gates`,
-    title: 'Thank you — your gate is in production.',
+    subject: ref => `Order ${ref} received | Lumina Gates`,
+    title: 'Thank you, your gate is in production.',
     intro: ref => `We have received your order ${ref}. Here is what you configured:`,
     next: [
-      'What happens next: within 48 hours we will email you to confirm the final dimensions and finish. Please read that email carefully — production starts once it is confirmed.',
-      `Production takes ${config.commerce.leadTimeBusinessDays.min}–${config.commerce.leadTimeBusinessDays.max} business days. Your gate then ships by tracked express courier (${config.commerce.transitBusinessDays.min}–${config.commerce.transitBusinessDays.max} business days); you will receive the tracking number on the day it leaves the workshop.`,
+      'What happens next: within 48 hours we will email you to confirm the final dimensions and finish. Please read that email carefully: production starts once it is confirmed.',
+      `Production takes ${config.commerce.leadTimeBusinessDays.min}-${config.commerce.leadTimeBusinessDays.max} business days. Your gate then ships by tracked express courier (${config.commerce.transitBusinessDays.min}-${config.commerce.transitBusinessDays.max} business days); you will receive the tracking number on the day it leaves the workshop.`,
       `Shipping is included. Import duties or taxes, where your country applies them, are paid by the recipient on delivery.`,
       `Questions? Just reply to this email or write to ${config.contact.email}.`
     ],
     shipTo: 'Shipping to'
   },
   tr: {
-    subject: ref => `${ref} numaralı siparişiniz alındı — Lumina Gates`,
-    title: 'Teşekkürler — kapınız üretime alındı.',
+    subject: ref => `${ref} numaralı siparişiniz alındı | Lumina Gates`,
+    title: 'Teşekkürler, kapınız üretime alındı.',
     intro: ref => `${ref} numaralı siparişinizi aldık. Yapılandırmanız:`,
     next: [
-      'Sırada ne var: 48 saat içinde son ölçüleri ve rengi teyit etmek için size e-posta göndereceğiz. Lütfen o e-postayı dikkatle okuyun — üretim teyitten sonra başlar.',
-      `Üretim ${config.commerce.leadTimeBusinessDays.min}–${config.commerce.leadTimeBusinessDays.max} iş günü sürer. Ardından kapınız takipli ekspres kuryeyle gönderilir (${config.commerce.transitBusinessDays.min}–${config.commerce.transitBusinessDays.max} iş günü); atölyeden çıktığı gün takip numarasını alırsınız.`,
+      'Sırada ne var: 48 saat içinde son ölçüleri ve rengi teyit etmek için size e-posta göndereceğiz. Lütfen o e-postayı dikkatle okuyun: üretim teyitten sonra başlar.',
+      `Üretim ${config.commerce.leadTimeBusinessDays.min}-${config.commerce.leadTimeBusinessDays.max} iş günü sürer. Ardından kapınız takipli ekspres kuryeyle gönderilir (${config.commerce.transitBusinessDays.min}-${config.commerce.transitBusinessDays.max} iş günü); atölyeden çıktığı gün takip numarasını alırsınız.`,
       'Kargo dahildir. Varsa gümrük vergileri teslimatta alıcı tarafından ödenir.',
       `Sorunuz mu var? Bu e-postayı yanıtlayın veya ${config.contact.email} adresine yazın.`
     ],
@@ -57,7 +57,7 @@ async function notifyPaid(session) {
   const rows = o.lines.map(l => [l.label, l.value]);
   if (o.shipping) rows.push([C.shipTo, addressLine(o.shipping)]);
 
-  // 1) Owner notification — everything needed to start production
+  // 1) Owner notification - everything needed to start production
   const ownerRows = [
     ['Reference', o.reference],
     ['Customer', `${o.customer.name} · ${o.customer.email} · ${o.customer.phone}`],
@@ -65,11 +65,11 @@ async function notifyPaid(session) {
     ['Stripe session', o.sessionId],
     ['Locale', o.locale]
   ];
-  const ownerMsg = { title: `New order ${o.reference} — ${o.productName} ${o.config.widthIn}" × ${o.config.heightIn}"`, intro: `${o.customer.name} paid ${o.currency} ${o.amount}.`, rows: ownerRows, paragraphs: ['Reply to this email to reach the customer directly.'] };
+  const ownerMsg = { title: `New order ${o.reference}: ${o.productName} ${o.config.widthIn}" × ${o.config.heightIn}"`, intro: `${o.customer.name} paid ${o.currency} ${o.amount}.`, rows: ownerRows, paragraphs: ['Reply to this email to reach the customer directly.'] };
   await sendEmail({
     to: config.contact.notifyEmail,
     replyTo: o.customer.email || undefined,
-    subject: `🛠 New order ${o.reference}: ${o.productName} ${o.config.widthIn}×${o.config.heightIn} in — ${o.currency} ${o.amount}`,
+    subject: `🛠 New order ${o.reference}: ${o.productName} ${o.config.widthIn}×${o.config.heightIn} in, ${o.currency} ${o.amount}`,
     html: template(ownerMsg), text: textVersion(ownerMsg),
     tags: [{ name: 'type', value: 'order_owner' }]
   });
@@ -91,7 +91,7 @@ async function notifyPaid(session) {
 async function notifyFailed(session) {
   const o = summarize(session);
   const msg = { title: `Payment failed for ${o.reference}`, intro: `${o.customer.name || 'A customer'} (${o.customer.email}) started an order but the asynchronous payment failed.`, rows: o.lines.map(l => [l.label, l.value]) };
-  await sendEmail({ to: config.contact.notifyEmail, subject: `⚠️ Payment failed — ${o.reference}`, html: template(msg), text: textVersion(msg) });
+  await sendEmail({ to: config.contact.notifyEmail, subject: `⚠️ Payment failed: ${o.reference}`, html: template(msg), text: textVersion(msg) });
 }
 
 module.exports = async function handler(req, res) {
@@ -125,7 +125,7 @@ module.exports = async function handler(req, res) {
         break;
     }
   } catch (err) {
-    // Never fail the webhook because an email failed — Stripe would keep retrying.
+    // Never fail the webhook because an email failed - Stripe would keep retrying.
     console.error('Webhook handler error:', err);
   }
   return res.status(200).json({ received: true });

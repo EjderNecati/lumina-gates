@@ -1,4 +1,4 @@
-// Lumina Gates — product configurator (hydrates the server-rendered form)
+// Lumina Gates - product configurator (hydrates the server-rendered form)
 // Depends on: window.LUMINA (catalog.js) and <script type="application/json" id="page-data">.
 (function () {
   'use strict';
@@ -126,7 +126,7 @@
     payError.setAttribute('hidden', '');
     if (state.color === 'other' && !state.customColor) { showError(S.payOtherEmpty); otherInput.focus(); return; }
 
-    var colorLabel = state.color === 'other' ? 'Other — ' + state.customColor : (L.COLORS.filter(function (c) { return c.id === state.color; })[0] || {}).name;
+    var colorLabel = state.color === 'other' ? 'Other - ' + state.customColor : (L.COLORS.filter(function (c) { return c.id === state.color; })[0] || {}).name;
     var label = payBtn.textContent;
     payBtn.disabled = true; payBtn.textContent = S.payRedirect;
 

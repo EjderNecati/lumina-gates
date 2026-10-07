@@ -1,4 +1,4 @@
-// Lumina Gates — product catalog & pricing engine (single source of truth)
+// Lumina Gates - product catalog & pricing engine (single source of truth)
 //
 // This file is UMD: it is require()'d by the build and the Vercel API functions,
 // and the build also copies it to /js/catalog.js for the browser (window.LUMINA).
@@ -65,12 +65,12 @@
     { id: 'cat',   slug: 'gates/cat-edition', filter: p => p.audience === 'cat' }
   ];
 
-  // 29 gates — each item's material reflects what the photos actually show.
+  // 29 gates - each item's material reflects what the photos actually show.
   // `folder` / `images` point at the source photos in /assets/products (not deployed);
   // scripts/images.js turns them into /img/products/<id>/… WebP files.
   const PRODUCTS = [
   // ─────────────────────────────────────────────────────────
-  //  PLEXIGLASS COLLECTION (11) — clear panel is the hero
+  //  PLEXIGLASS COLLECTION (11) - clear panel is the hero
   // ─────────────────────────────────────────────────────────
   { id: 'aurora', engravable: true,         name: 'Aurora',          material: 'plexi',
     audience: 'both', collection: 'Plexiglass',
@@ -86,9 +86,9 @@
     folder: 'Yazılı Liten',
     images: ['23rqewda.png','ewfsdac.png','t35agerfs.png','wefsd.png'],
     tagline: 'A bifold plexiglass gate with a personalised script.',
-    description: 'Liten — Swedish for "small". A folding plexiglass gate in an anthracite frame, etched with custom script. For openings where a name or word should greet you.',
+    description: 'Liten: Swedish for "small". A folding plexiglass gate in an anthracite frame, etched with custom script. For openings where a name or word should greet you.',
     tagline_tr: 'Kişiselleştirilmiş yazılı katlanır pleksiglas kapı.',
-    description_tr: 'Liten — İsveççe "küçük" anlamına gelir. Antrasit çerçeveli, özel yazıyla kazınmış katlanır pleksiglas kapı. Sizi bir isim ya da kelimenin karşıladığı geçişler için.' },
+    description_tr: 'Liten, İsveççe "küçük" anlamına gelir. Antrasit çerçeveli, özel yazıyla kazınmış katlanır pleksiglas kapı. Sizi bir isim ya da kelimenin karşıladığı geçişler için.' },
 
   { id: 'liten',          name: 'Liten',           material: 'plexi',
     audience: 'both', collection: 'Plexiglass',
@@ -105,27 +105,27 @@
     folder: 'Pleksi',
     images: ['12q.png','12q3wefsdvc.png','12qewds.png','12r3qwefsd.png','q3rwefsadxz.png','wqadszcx.png'],
     tagline: 'A bifold plexiglass gate in a pale frame.',
-    description: 'Pure plexiglass panels in a slim white frame with brass hardware. The brightest, most transparent gate we make — engineered to disappear into the architecture of your home.',
+    description: 'Pure plexiglass panels in a slim white frame with brass hardware. The brightest, most transparent gate we make, engineered to disappear into the architecture of your home.',
     tagline_tr: 'Açık tonlu çerçeveli katlanır pleksiglas kapı.',
-    description_tr: 'İnce beyaz çerçeve ve pirinç donanımla saf pleksiglas paneller. Yaptığımız en parlak ve şeffaf kapı — evinizin mimarisine kusursuz uyum sağlayacak şekilde tasarlandı.' },
+    description_tr: 'İnce beyaz çerçeve ve pirinç donanımla saf pleksiglas paneller. Yaptığımız en parlak ve şeffaf kapı; evinizin mimarisine kusursuz uyum sağlayacak şekilde tasarlandı.' },
 
   { id: 'klar',           name: 'Klar',            material: 'plexi',
     audience: 'both', collection: 'Plexiglass',
     folder: 'Klar',
     images: ['wfe.png','jknb.png','23q.png','2r3qwe.png','1eq23.png'],
     tagline: 'A wide single-panel plexiglass gate.',
-    description: 'Klar — German for "clear". A single, edge-polished plexiglass panel in a substantial graphite frame. Built for landings and wide openings where a single gesture is everything.',
+    description: 'Klar: German for "clear". A single, edge-polished plexiglass panel in a substantial graphite frame. Built for landings and wide openings where a single gesture is everything.',
     tagline_tr: 'Geniş, tek panelli pleksiglas kapı.',
-    description_tr: 'Klar — Almanca "berrak" anlamına gelir. Geniş grafit çerçeve içinde, kenarları cilalı tek pleksiglas panel. Tek bir hamlenin yeterli olduğu sahanlıklar ve geniş geçişler için.' },
+    description_tr: 'Klar, Almanca "berrak" anlamına gelir. Geniş grafit çerçeve içinde, kenarları cilalı tek pleksiglas panel. Tek bir hamlenin yeterli olduğu sahanlıklar ve geniş geçişler için.' },
 
   { id: 'noord-etched', engravable: true,   name: 'Noord Etched',    material: 'plexi',
     audience: 'both', collection: 'Plexiglass',
     folder: 'Yazılı Noord',
     images: ['12eqwd.png','2r3we.png','2rewf.png','2t4ewf.png','r32qefw.png'],
     tagline: 'A bifold plexiglass gate with bespoke calligraphy.',
-    description: 'Noord — Dutch for "north". A bifold plexiglass gate in a soft anthracite frame, hand-engraved with names, dates or words of your choosing.',
+    description: 'Noord: Dutch for "north". A bifold plexiglass gate in a soft anthracite frame, hand-engraved with names, dates or words of your choosing.',
     tagline_tr: 'Özel yazı işlemeli katlanır pleksiglas kapı.',
-    description_tr: 'Noord — Felemenkçe "kuzey" anlamına gelir. Yumuşak antrasit çerçeve içinde, seçtiğiniz isim, tarih veya kelimelerle el kazıma katlanır pleksiglas kapı.' },
+    description_tr: 'Noord, Felemenkçe "kuzey" anlamına gelir. Yumuşak antrasit çerçeve içinde, seçtiğiniz isim, tarih veya kelimelerle el kazıma katlanır pleksiglas kapı.' },
 
   { id: 'noord',          name: 'Noord',           material: 'plexi',
     audience: 'both', collection: 'Plexiglass',
@@ -149,9 +149,9 @@
     audience: 'both', collection: 'Plexiglass',
     folder: 'Liten Ahşap',
     images: ['12ewq.png','2.png','adsf.png','erfw.png'],
-    tagline: 'Oak-framed plexiglass — the warmest hybrid.',
+    tagline: 'Oak-framed plexiglass: the warmest hybrid.',
     description: 'Solid European oak frame with a crystal-clear plexiglass panel. The warmth of wood meets the lightness of glass. Hand-finished with natural wax.',
-    tagline_tr: 'Meşe çerçeveli pleksiglas — en sıcak karma.',
+    tagline_tr: 'Meşe çerçeveli pleksiglas: en sıcak karma.',
     description_tr: 'Masif Avrupa meşesi çerçeve, kristal berraklığında pleksiglas panel. Ahşabın sıcaklığı camın hafifliğiyle buluşur. Doğal vaks ile el cilalı.' },
 
   { id: 'lugn-oak',       name: 'Lugn Oak',        material: 'plexi',
@@ -159,9 +159,9 @@
     folder: 'Lugn Ahşap',
     images: ['fhs.png','wer.png','wef.png','aerfswd.png','dsfg.png','qw.png','ergafds.png'],
     tagline: 'A wide oak-framed plexiglass gate.',
-    description: 'Lugn — Swedish for "calm". A slim oak frame holding a single tall plexiglass panel, anchored in graphite mounts. Built for hallways and stair landings.',
+    description: 'Lugn: Swedish for "calm". A slim oak frame holding a single tall plexiglass panel, anchored in graphite mounts. Built for hallways and stair landings.',
     tagline_tr: 'Geniş, meşe çerçeveli pleksiglas kapı.',
-    description_tr: 'Lugn — İsveççe "sakin" anlamına gelir. İnce meşe çerçeve içinde tek uzun pleksiglas panel, grafit montajlarla sabitlenmiş. Koridorlar ve merdiven sahanlıkları için.' },
+    description_tr: 'Lugn, İsveççe "sakin" anlamına gelir. İnce meşe çerçeve içinde tek uzun pleksiglas panel, grafit montajlarla sabitlenmiş. Koridorlar ve merdiven sahanlıkları için.' },
 
   { id: 'noord-oak',      name: 'Noord Oak',       material: 'plexi',
     audience: 'both', collection: 'Plexiglass',
@@ -173,7 +173,7 @@
     description_tr: 'Doğal meşe çerçeve içinde, pirinç menteşelerle birleştirilmiş iki şeffaf pleksiglas panel. Ahşabın sıcaklığıyla Noord serisi.' },
 
   // ─────────────────────────────────────────────────────────
-  //  WOOD COLLECTION (18) — solid wood is the hero
+  //  WOOD COLLECTION (18) - solid wood is the hero
   // ─────────────────────────────────────────────────────────
   { id: 'flat-cat',       name: 'Flat Cat',        material: 'wood',
     audience: 'cat', collection: 'Wood',
@@ -198,17 +198,17 @@
     folder: 'Tyrgg Cat',
     images: ['3qrwd.png','dfv.png','qwda.png','wefsd.png','wesd.png'],
     tagline: 'A slatted wooden gate, cat-edition.',
-    description: 'Trygg — Swedish for "safe". A solid-wood gate with vertical slat work, painted in deep jet black. A cat-scaled mirror to our flagship Trygg.',
-    tagline_tr: 'Slatlı ahşap kapı — kedi serisi.',
-    description_tr: 'Trygg — İsveççe "güvenli" anlamına gelir. Derin jet siyahına boyanmış, dikey slat işçilikli masif ahşap kapı. Amiral gemimiz Trygg\'in kedi ölçeğinde yansıması.' },
+    description: 'Trygg: Swedish for "safe". A solid-wood gate with vertical slat work, painted in deep jet black. A cat-scaled mirror to our flagship Trygg.',
+    tagline_tr: 'Slatlı ahşap kapı, kedi serisi.',
+    description_tr: 'Trygg, İsveççe "güvenli" anlamına gelir. Derin jet siyahına boyanmış, dikey slat işçilikli masif ahşap kapı. Amiral gemimiz Trygg\'in kedi ölçeğinde yansıması.' },
 
   { id: 'lux',            name: 'Lux',             material: 'wood',
     audience: 'both', collection: 'Wood',
     folder: 'Lüx',
     images: ['aszxc.png','qwdas.png','qwasdfczx.png','qwads.png','waf.png','aefgsd.png'],
-    tagline: 'A painted-wood lattice — our flagship.',
+    tagline: 'A painted-wood lattice: our flagship.',
     description: 'Our most photographed model. An intricate lattice in painted solid wood, with brass-tipped hardware and concealed hinges. A piece of joinery that elevates the rooms it bridges.',
-    tagline_tr: 'Boyalı ahşap kafes — amiral modelimiz.',
+    tagline_tr: 'Boyalı ahşap kafes: amiral modelimiz.',
     description_tr: 'En çok fotoğraflanan modelimiz. Boyalı masif ahşaptan ince işçilikli kafes, pirinç uçlu donanım ve gizli menteşelerle. Bağladığı odaları yükselten bir marangozluk eseri.' },
 
   { id: 'flink',          name: 'Flink',           material: 'wood',
@@ -216,18 +216,18 @@
     folder: 'Flink',
     images: ['qw.png','1234ew.png','rwefs.png','r23we.png','gerd.png','qqwdasc.png','123rqwd.png'],
     tagline: 'A vertical-slat wooden gate, tool-free install.',
-    description: 'Flink — Swedish for "quick". A vertical-slat wooden gate with brass-tipped wall mounts and a streamlined installation system. Refined craft, fast install.',
+    description: 'Flink: Swedish for "quick". A vertical-slat wooden gate with brass-tipped wall mounts and a streamlined installation system. Refined craft, fast install.',
     tagline_tr: 'Hızlı montajlı, dikey slatlı ahşap kapı.',
-    description_tr: 'Flink — İsveççe "hızlı" anlamına gelir. Pirinç uçlu duvar montajlarıyla dikey slatlı ahşap kapı. Akıcı bir montaj sistemi: rafine işçilik, hızlı kurulum.' },
+    description_tr: 'Flink, İsveççe "hızlı" anlamına gelir. Pirinç uçlu duvar montajlarıyla dikey slatlı ahşap kapı. Akıcı bir montaj sistemi: rafine işçilik, hızlı kurulum.' },
 
   { id: 'laga',           name: 'Laga',            material: 'wood',
     audience: 'both', collection: 'Wood',
     folder: 'Laga',
     images: ['sda.png','adfsvzcx.png','wsdf.png','WEFADS.png','awdsfc.png','asdf.png'],
     tagline: 'A vertical-slat wooden gate, finished in soft white.',
-    description: 'Laga — Swedish for "to build". A solid-wood gate with hand-finished vertical slats and brass-tipped hardware. Built for stair landings and the high-traffic family home.',
+    description: 'Laga: Swedish for "to build". A solid-wood gate with hand-finished vertical slats and brass-tipped hardware. Built for stair landings and the high-traffic family home.',
     tagline_tr: 'Yumuşak beyaz cilalı, dikey slatlı ahşap kapı.',
-    description_tr: 'Laga — İsveççe "inşa etmek" anlamına gelir. El cilalı dikey slatlar ve pirinç uçlu donanımla masif ahşap kapı. Merdiven sahanlıkları ve yoğun aile evi için tasarlandı.' },
+    description_tr: 'Laga, İsveççe "inşa etmek" anlamına gelir. El cilalı dikey slatlar ve pirinç uçlu donanımla masif ahşap kapı. Merdiven sahanlıkları ve yoğun aile evi için tasarlandı.' },
 
   { id: 'trygg',          name: 'Trygg',           material: 'wood',
     audience: 'both', collection: 'Wood',
@@ -324,9 +324,9 @@
     folder: 'Stappa',
     images: ['wqesd.png','ewads.png','qweadszx.png','eaf.png','asdF.png','re.png','wasrefg.png','4q3wer.png'],
     tagline: 'A folding wooden gate with vertical slats.',
-    description: 'Stappa — Swedish for "step". A multi-panel folding wooden gate in soft white, with vertical slat reveals and brass hinges. Adapts to wide openings.',
+    description: 'Stappa: Swedish for "step". A multi-panel folding wooden gate in soft white, with vertical slat reveals and brass hinges. Adapts to wide openings.',
     tagline_tr: 'Dikey slatlı katlanır ahşap kapı.',
-    description_tr: 'Stappa — İsveççe "adım" anlamına gelir. Yumuşak beyazda, dikey slat detayları ve pirinç menteşelerle çok panelli katlanır ahşap kapı. Geniş geçişlere uyum sağlar.' },
+    description_tr: 'Stappa, İsveççe "adım" anlamına gelir. Yumuşak beyazda, dikey slat detayları ve pirinç menteşelerle çok panelli katlanır ahşap kapı. Geniş geçişlere uyum sağlar.' },
 
   { id: 'barnhall',       name: 'Barnhall',        material: 'wood',
     audience: 'both', collection: 'Wood',
@@ -378,7 +378,7 @@
     };
   }
 
-  // Lowest and highest standard (≤54") prices for a material — used for "from" prices and schema.org AggregateOffer
+  // Lowest and highest standard (≤54") prices for a material - used for "from" prices and schema.org AggregateOffer
   function priceRange(material, fromWidthIn) {
     const low  = computePrice(material, fromWidthIn || 18, DEFAULT_HEIGHT_INCH);
     const high = computePrice(material, OVERSIZE_THRESHOLD, DEFAULT_HEIGHT_INCH);

@@ -15,7 +15,7 @@ function fill(str, vars = {}) {
   return String(str ?? '').replace(/\{(\w+)\}/g, (m, k) => (k in vars ? String(vars[k]) : m));
 }
 
-/** Escape then fill — the common case for copy with variables. */
+/** Escape then fill - the common case for copy with variables. */
 function tf(str, vars = {}) {
   const safeVars = {};
   for (const [k, v] of Object.entries(vars)) safeVars[k] = e(v);
@@ -59,7 +59,7 @@ function jsonData(id, obj) {
   return `<script type="application/json" id="${e(id)}">${json}</script>`;
 }
 
-/** Strip HTML tags / collapse whitespace — for meta descriptions built from copy. */
+/** Strip HTML tags / collapse whitespace - for meta descriptions built from copy. */
 function plain(str, max = 155) {
   let s = String(str ?? '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
   if (s.length > max) s = s.slice(0, max - 1).replace(/\s+\S*$/, '') + '…';
@@ -71,7 +71,7 @@ function inToCm(i) { return Math.round(Number(i) * 2.54); }
 /** 1-decimal rounding for inches */
 function round1(n) { return Math.round(Number(n) * 10) / 10; }
 
-/** Small numbers as words (0–99) for headline copy. Falls back to digits. */
+/** Small numbers as words (0-99) for headline copy. Falls back to digits. */
 const WORDS = {
   en: { ones: ['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen'], tens: ['', '', 'twenty','thirty','forty','fifty','sixty','seventy','eighty','ninety'], join: '-' },
   tr: { ones: ['sıfır','bir','iki','üç','dört','beş','altı','yedi','sekiz','dokuz'], tens: ['', 'on','yirmi','otuz','kırk','elli','altmış','yetmiş','seksen','doksan'], join: ' ' }

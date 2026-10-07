@@ -1,4 +1,4 @@
-// Transactional email via Resend (https://resend.com) — plain HTTPS, no SDK.
+// Transactional email via Resend (https://resend.com) - plain HTTPS, no SDK.
 //
 // Env: RESEND_API_KEY   (if missing, emails are logged instead of sent)
 //      EMAIL_FROM       e.g. "Lumina Gates <orders@luminagates.com>" (domain must be verified in Resend)
@@ -16,7 +16,7 @@ async function sendEmail({ to, subject, html, text, replyTo, tags }) {
     ...(tags ? { tags } : {})
   };
   if (!key) {
-    console.log('[email skipped — RESEND_API_KEY not set]', JSON.stringify({ to: payload.to, subject }));
+    console.log('[email skipped: RESEND_API_KEY not set]', JSON.stringify({ to: payload.to, subject }));
     return { skipped: true };
   }
   const res = await fetch('https://api.resend.com/emails', {

@@ -1,4 +1,4 @@
-// Lumina Gates — order confirmation page: show the paid order and fire conversion events
+// Lumina Gates - order confirmation page: show the paid order and fire conversion events
 (function () {
   'use strict';
   var card = document.getElementById('orderCard');

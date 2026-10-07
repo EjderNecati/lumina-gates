@@ -26,7 +26,7 @@ function summarize(session) {
   const md = session.metadata || {};
   const locale = md.locale === 'tr' ? 'tr' : 'en';
   const L = LABELS[locale];
-  const product = catalog.getProduct(md.productId) || { name: md.productId || '—', material: md.material };
+  const product = catalog.getProduct(md.productId) || { name: md.productId || '-', material: md.material };
   const notesField = (session.custom_fields || []).find(f => f.key === 'notes');
   const notes = notesField && notesField.text && notesField.text.value;
   const ship = session.shipping_details || session.collected_information?.shipping_details || null;
@@ -37,7 +37,7 @@ function summarize(session) {
     [L.material, product.material === 'plexi' ? L.plexi : L.wood],
     [L.width, dims(md.widthIn)],
     [L.height, dims(md.heightIn)],
-    [L.finish, md.colorName || '—'],
+    [L.finish, md.colorName || '-'],
     ...(md.engraving ? [[L.engraving, md.engraving]] : []),
     ...(notes ? [[L.notes, notes]] : []),
     [L.total, money(session.amount_total, session.currency)]

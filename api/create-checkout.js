@@ -13,8 +13,8 @@ const config  = require('../src/site.config.js');
 
 const LIMITS = catalog.LIMITS;
 const TEXT = {
-  en: { notes: 'Order notes (optional)', submit: 'Made to order — we confirm your dimensions by email before production starts.', shipping: 'Shipping is included. Import duties, where applicable, are paid by the recipient.' },
-  tr: { notes: 'Sipariş notu (isteğe bağlı)', submit: 'Siparişe özel üretim — üretimden önce ölçülerinizi e-posta ile teyit ederiz.', shipping: 'Kargo dahildir. Varsa gümrük vergileri alıcı tarafından ödenir.' }
+  en: { notes: 'Order notes (optional)', submit: 'Made to order: we confirm your dimensions by email before production starts.', shipping: 'Shipping is included. Import duties, where applicable, are paid by the recipient.' },
+  tr: { notes: 'Sipariş notu (isteğe bağlı)', submit: 'Siparişe özel üretim: üretimden önce ölçülerinizi e-posta ile teyit ederiz.', shipping: 'Kargo dahildir. Varsa gümrük vergileri alıcı tarafından ödenir.' }
 };
 
 function siteUrl(req) {
@@ -44,9 +44,9 @@ module.exports = async function handler(req, res) {
   if (!color) return bad(res, 'Unknown finish');
   let colorName = color.name;
   if (color.id === 'other') {
-    const custom = String(body.colorName || '').replace(/^Other\s*[—-]\s*/i, '').trim().slice(0, 80);
+    const custom = String(body.colorName || '').replace(/^Other\s*[-\u2014]\s*/i, '').trim().slice(0, 80);
     if (!custom) return bad(res, 'Please describe the custom finish');
-    colorName = `Other — ${custom}`;
+    colorName = `Other - ${custom}`;
   }
 
   const engraving = product.engravable ? String(body.engraving || '').trim().slice(0, 40) : '';
@@ -85,7 +85,7 @@ module.exports = async function handler(req, res) {
           currency: config.commerce.currency.toLowerCase(),
           unit_amount: amountCents,
           product_data: {
-            name: `${config.brand} — ${product.name}`,
+            name: `${config.brand} · ${product.name}`,
             description,
             images: [`${base}/img/og/${product.id}.jpg`],
             metadata: { productId: product.id }

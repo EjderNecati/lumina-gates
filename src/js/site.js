@@ -1,4 +1,4 @@
-// Lumina Gates — site-wide progressive enhancement (no dependencies, CSP-safe: no inline code)
+// Lumina Gates - site-wide progressive enhancement (no dependencies, CSP-safe: no inline code)
 (function () {
   'use strict';
 
@@ -73,7 +73,7 @@
     });
   }
 
-  // ── Analytics (GA4 / Google Ads) — only when configured on <body data-ga4> ──
+  // ── Analytics (GA4 / Google Ads) - only when configured on <body data-ga4> ──
   var ga4 = document.body.getAttribute('data-ga4');
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };

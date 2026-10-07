@@ -1,4 +1,4 @@
-// Lumina Gates — site-wide configuration
+// Lumina Gates - site-wide configuration
 // Single place for everything that is "about the business" rather than "about a product".
 // Used by the build (scripts/build.js) and by the API functions (api/*).
 
@@ -9,7 +9,7 @@ module.exports = {
 
   company: {
     legalName: 'Doggo LLC',
-    // Mailing address (virtual mailbox provided by the formation service) — the LLC itself is registered in Wyoming.
+    // Mailing address (virtual mailbox provided by the formation service) - the LLC itself is registered in Wyoming.
     address: {
       street: '169 Madison Ave STE 11534 Unit 445',
       city: 'New York',
@@ -67,7 +67,7 @@ module.exports = {
     fromWidthIn: 18,
     // Show the struck-through "was" price next to the discounted price (catalog GLOBAL_DISCOUNT).
     // NOTE: a permanent reference price can be challenged under US FTC / EU pricing rules and by
-    // Google Merchant Center — review before running ads. Set false to show only the selling price.
+    // Google Merchant Center - review before running ads. Set false to show only the selling price.
     showCompareAt: true
   },
 

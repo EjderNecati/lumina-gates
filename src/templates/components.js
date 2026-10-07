@@ -34,7 +34,7 @@ function productImg(ctx, p, n, opts = {}) {
   return `<img ${attrs}>`;
 }
 
-/** Absolute URLs of all renditions at the largest width — for schema.org / sitemap. */
+/** Absolute URLs of all renditions at the largest width - for schema.org / sitemap. */
 function productImageUrls(ctx, p) {
   return (ctx.manifest.products[p.id] || []).map(ph => abs(ph.sizes[ph.sizes.length - 1].file));
 }
@@ -98,7 +98,7 @@ ${items.map(([id, label, path]) => `  <a class="${cx('chip', id === active && 'a
 }
 
 function breadcrumbs(ctx, items) {
-  // items: [{ label, path }] — last item is current page
+  // items: [{ label, path }] - last item is current page
   const lis = items.map((it, i) => {
     const last = i === items.length - 1;
     return last
